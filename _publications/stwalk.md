@@ -14,7 +14,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 
 STWalk analyzes the temporal behavior of nodes in dynamic graphs by doing random walks on graph at a current & past time-steps. STWalk outperforms baseline algorithms on 3 real-world datasets. Implemented in Python, TensorFlow-Keras.
 
-* [Link to paper](http://supriya-pandhre.github.io/files/stwalk.pdf)
+* [Link to paper](https://arxiv.org/pdf/1711.04150.pdf)
 
 * [Link to code and data](https://github.com/supriya-pandhre/STWalk)
 
