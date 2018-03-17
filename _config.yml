@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Supriya Pandhre"
 title_separator          : "-"
 name                     : &name "Supriya Pandhre"
-description              : &description "Graduate Student at IIT Hyderabad. Working on Geometric Deep Learning"
+description              : &description "Graduate Student at IIT Hyderabad. Working on Geometric Deep Learning. Blog:cnnforgraphs.blogspot.in/"
 url                      : https://supriya-pandhre.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "supriya-pandhre.github.io"
@@ -93,7 +93,7 @@ author:
   facebook         :
   foursquare       :
   github           : "supriya-pandhre"
-  google_plus      : "http://cnnforgraphs.blogspot.in/"
+  google_plus      : 
   keybase          :
   instagram        :
   lastfm           :
