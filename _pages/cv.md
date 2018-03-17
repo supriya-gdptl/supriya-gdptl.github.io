@@ -16,15 +16,15 @@ redirect_from:
 
 ## Education
 
-* [*Indian Institute of Technology Hyderabad*](http://iith.ac.in/)
- - M.Tech (RA) in Computer Science and Engineering
- - Aug, 2015 - Present
- - CGPA: 9.29 / 10
+* [**Indian Institute of Technology Hyderabad**](http://iith.ac.in/)
+  * M.Tech (RA) in Computer Science and Engineering
+  * Aug, 2015 - Present
+  * CGPA: 9.29 / 10
 
-* [*Vishwakarma Institute of Technology Pune*](http://vit.edu/)
- - B.Tech. in Computer Science
- - Aug, 2010 - May, 2014
- - CGPA: 9.02 / 10
+* [**Vishwakarma Institute of Technology Pune**](http://vit.edu/)
+ * B.Tech. in Computer Science
+ * Aug, 2010 - May, 2014
+ * CGPA: 9.02 / 10
 
 
 ## Work experience
