@@ -2,7 +2,9 @@
 title: "STWalk"
 collection: publications
 permalink: /publication/stwalk.md
-excerpt: ''
+venue: 'CoDS-COMAD 2018'
+paperurl: 'https://arxiv.org/pdf/1711.04150.pdf)'
+citation: 'Pandhre, Supriya, et al. "STwalk: learning trajectory representations in temporal graphs." Proceedings of the ACM India Joint International Conference on Data Science and Management of Data. ACM, 2018.'
 ---
 
 
