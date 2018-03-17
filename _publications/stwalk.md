@@ -1,5 +1,5 @@
 ---
-title: "STWalk"
+title: "STWalk: Learning Trajectory Representations in Temporal Graphs"
 collection: publications
 permalink: /publication/stwalk.md
 venue: 'CoDS-COMAD 2018'
