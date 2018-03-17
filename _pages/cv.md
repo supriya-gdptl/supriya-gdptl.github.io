@@ -29,7 +29,7 @@ redirect_from:
 
 ## Work experience
 
-* *Research Assistant* (Aug, 2015 - Present)
+* **Research Assistant** (Aug, 2015 - Present)
   * Organization: **Indian Institute of Technollogy Hyderabad**
   * Work: 
    - Currently working on using Deep Learning concepts for Social Graph Analysis (Geometric Deep Learning).
@@ -37,40 +37,40 @@ redirect_from:
    - Research paper on static graph analysis hosted on arXiv: [HCODA](https://arxiv.org/pdf/1612.09435.pdf).
 * Supervisor: [Vineeth N Balasubramanian](http://www.iith.ac.in/~vineethnb/).
 
-* *Research Intern* (May, 2017 - July, 2017)
+* **Research Intern** (May, 2017 - July, 2017)
   * Organization: **Adobe, Noida**
   * Work: 
    - Research on Deep Learning for Visual Question Answering(VQA) task. Implemented algorithm using TensorFlow, Keras. Achieved validation accuracy of 40% in 20 epochs.
    - Wrote a survey paper on recent methods in VQA: [Link to paper](https://arxiv.org/pdf/1709.08203.pdf)
   * Supervisor: [Balaji Krishnamurthy](https://in.linkedin.com/in/balaji-krishnamurthy-4241695)
 
-* *Data Analyst Intern* (Dec, 2016)
+* **Data Analyst Intern** (Dec, 2016)
   * Organization: **Suzuki, Hamamatsu, Japan**
   * Work:
    - Analyzed the data from different social media: Twitter, YouTube, Blog Posts, Online product review sites.
    - Used Radian6 and QlikView for data analysis and visualization.
   * Supervisor: Shoji Kato-san
 
-* *Summer Intern* (June, 2016 - July, 2016)
+* **Summer Intern** (June, 2016 - July, 2016)
   * Organization: **Bosch, Bangalore**
   * Work: 
    - Designed Machine Learning algorithms for analysis of sensor data using Python-ScikitLearn, Pandas and Unscrambler.
   * Supervisor: [Tony Francis](https://www.linkedin.com/in/tonyfrancis/)
 
-* *Software Developer* (Aug, 2014 - July, 2015)
+* **Software Developer** (Aug, 2014 - July, 2015)
   * Organization: **Persistent Systems, Pune**
   * Work: 
    - Worked as Java Developer
   * Supervisor:  Taraben Khoiwala
 
-Publications
-======
+## Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Research Projects
-======
+## Research Projects
+
 * **Using Generative Adversarial Network (GAN) for Image Completion**:
   - Completed as a course project for Deep Learning for Vision course
   - Goal is to use GANs for completion of face images, important in many applications such as surveillance. 
@@ -85,8 +85,8 @@ Research Projects
   - Mentor: [Maunendra Desarkar](http://www.iith.ac.in/~maunendra/)
 
 
-Skills
-======
+## Skills
+
 * **Deep Learning Libraries**:
   * TensorFlow
   * Keras
