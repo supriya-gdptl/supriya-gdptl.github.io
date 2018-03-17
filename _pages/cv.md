@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-## *Research Interests*
+## ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)*Research Interests*![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
 * Deep Learning for Graphs ([*Geometric Deep Learning*](http://geometricdeeplearning.com/))
 * Social Graph Analysis
 * Data Mining
