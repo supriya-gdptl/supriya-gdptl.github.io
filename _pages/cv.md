@@ -7,14 +7,14 @@ redirect_from:
   - /resume
 ---
 
-## ![#1589F0](https://placehold.it/15/1589F0/000000?text=+)*Research Interests*![#1589F0](https://placehold.it/15/1589F0/000000?text=+)
+## ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) *Research Interests*
 * Deep Learning for Graphs ([*Geometric Deep Learning*](http://geometricdeeplearning.com/))
 * Social Graph Analysis
 * Data Mining
 * Visual Question Answering
 * Computer Vision
 
-## *Education*
+## ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) *Education*
 
 * [**Indian Institute of Technology Hyderabad**](http://iith.ac.in/)
   * M.Tech (RA) in Computer Science and Engineering
@@ -27,7 +27,7 @@ redirect_from:
   * CGPA: 9.02 / 10
 
 
-## *Work experience*
+## ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) *Work experience*
 
 * **Research Assistant** (Aug, 2015 - Present)
   * Organization: **Indian Institute of Technollogy Hyderabad**
@@ -63,7 +63,7 @@ redirect_from:
     * Worked as Java Developer
   * Supervisor:  Taraben Khoiwala
 
-## *Publications*
+## ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) *Publications*
 
 * *Pandhre, Supriya, et al*. **"STwalk: learning trajectory representations in temporal graphs."** Proceedings of the ACM India Joint International Conference on Data Science and Management of Data. ACM, 2018.
 
@@ -72,7 +72,7 @@ redirect_from:
 *  *Pandhre, Supriya, Manish Gupta, and Vineeth N. Balasubramanian*. **"Community-based Outlier Detection for Edge-attributed Graphs."** arXiv preprint arXiv:1612.09435 (2016).
 
 
-## *Research Projects*
+## ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) *Research Projects*
 
 * **Using Generative Adversarial Network (GAN) for Image Completion**:
   - Completed as a course project for Deep Learning for Vision course
@@ -88,7 +88,7 @@ redirect_from:
   - Mentor: [Maunendra Desarkar](http://www.iith.ac.in/~maunendra/)
 
 
-## *Skills*
+## ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) *Skills*
 
 * **Deep Learning Libraries**:
   * TensorFlow
