@@ -7,14 +7,14 @@ redirect_from:
   - /resume
 ---
 
-## Research Interests
+## *Research Interests*
 * Deep Learning for Graphs ([*Geometric Deep Learning*](http://geometricdeeplearning.com/))
 * Social Graph Analysis
 * Data Mining
 * Visual Question Answering
 * Computer Vision
 
-## Education
+## *Education*
 
 * [**Indian Institute of Technology Hyderabad**](http://iith.ac.in/)
   * M.Tech (RA) in Computer Science and Engineering
@@ -27,7 +27,7 @@ redirect_from:
   * CGPA: 9.02 / 10
 
 
-## Work experience
+## *Work experience*
 
 * **Research Assistant** (Aug, 2015 - Present)
   * Organization: **Indian Institute of Technollogy Hyderabad**
@@ -63,13 +63,16 @@ redirect_from:
     * Worked as Java Developer
   * Supervisor:  Taraben Khoiwala
 
-## Publications
+## *Publications*
 
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* *Pandhre, Supriya, et al*. **"STwalk: learning trajectory representations in temporal graphs."** Proceedings of the ACM India Joint International Conference on Data Science and Management of Data. ACM, 2018.
 
-## Research Projects
+* *Pandhre, Supriya, and Shagun Sodhani*. **"Survey of Recent Advances in Visual Question Answering."** arXiv preprint arXiv:1709.08203 (2017).
+
+*  *Pandhre, Supriya, Manish Gupta, and Vineeth N. Balasubramanian*. **"Community-based Outlier Detection for Edge-attributed Graphs."** arXiv preprint arXiv:1612.09435 (2016).
+
+
+## *Research Projects*
 
 * **Using Generative Adversarial Network (GAN) for Image Completion**:
   - Completed as a course project for Deep Learning for Vision course
@@ -85,7 +88,7 @@ redirect_from:
   - Mentor: [Maunendra Desarkar](http://www.iith.ac.in/~maunendra/)
 
 
-## Skills
+## *Skills*
 
 * **Deep Learning Libraries**:
   * TensorFlow
