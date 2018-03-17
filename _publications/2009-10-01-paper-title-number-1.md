@@ -10,7 +10,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 ---
 
 
-**STWalk: Learning Trajectory Representations in Temporal Graphs**
+## STWalk: Learning Trajectory Representations in Temporal Graphs
 
 STWalk analyzes the temporal behavior of nodes in dynamic graphs by doing random walks on graph at a current & past time-steps. STWalk outperforms baseline algorithms on 3 real-world datasets. Implemented in Python, TensorFlow-Keras.
 
@@ -19,8 +19,9 @@ STWalk analyzes the temporal behavior of nodes in dynamic graphs by doing random
 * [Link to code and data](https://github.com/supriya-pandhre/STWalk)
 
 
-* Cite: 
+## Cite
 
+```
 @inproceedings{pandhre2018stwalk,
   title={STwalk: learning trajectory representations in temporal graphs},
   author={Pandhre, Supriya and Mittal, Himangi and Gupta, Manish and Balasubramanian, Vineeth N},
@@ -29,3 +30,4 @@ STWalk analyzes the temporal behavior of nodes in dynamic graphs by doing random
   year={2018},
   organization={ACM}
 }
+```
