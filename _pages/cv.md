@@ -7,18 +7,17 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-Research Interests
-======
-* Deep Learning for Graphs ([Geometric Deep Learning](http://geometricdeeplearning.com/))
+## Research Interests
+![#1589F0](https://placehold.it/15/1589F0/000000?text=blue_text) 
+* Deep Learning for Graphs ([*Geometric Deep Learning*](http://geometricdeeplearning.com/))
 * Social Graph Analysis
 * Data Mining
 * Visual Question Answering
 * Computer Vision
 
-Education
-======
-* [Indian Institute of Technology Hyderabad](http://iith.ac.in/)
+## Education
+
+* [*Indian Institute of Technology Hyderabad*](http://iith.ac.in/)
  - M.Tech (RA) in Computer Science and Engineering
  - Aug, 2015 - Present
  - CGPA: 9.29 / 10
@@ -29,8 +28,8 @@ Education
  - CGPA: 9.02 / 10
 
 
-Work experience
-======
+## Work experience
+
 * Research Assistant (Aug, 2015 - Present)
   * Organization: **Indian Institute of Technollogy Hyderabad**
   * Work: 
