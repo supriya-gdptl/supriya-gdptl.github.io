@@ -15,7 +15,7 @@ The paper introduces a novel method that detects holistic outlier graph nodes by
 * [Link to code and data](https://github.com/supriya-pandhre/HCODA)
 
 
-## Cite:
+Cite:
 ```
 @article{pandhre2016community,
   title={Community-based Outlier Detection for Edge-attributed Graphs},
