@@ -17,7 +17,7 @@ STWalk analyzes the temporal behavior of nodes in dynamic graphs by doing random
 * [Link to code and data](https://github.com/supriya-pandhre/STWalk)
 
 
-## Cite
+Cite
 
 ```
 @inproceedings{pandhre2018stwalk,
