@@ -12,7 +12,7 @@ The paper describes the approaches taken by various algorithms to extract image 
 
 *  [Link to paper](https://arxiv.org/pdf/1709.08203.pdf)
 
-## Cite:
+Cite:
 
 ```
 @article{pandhre2017survey,
