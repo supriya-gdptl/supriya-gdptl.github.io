@@ -9,12 +9,15 @@ redirect_from:
 ---
 
 
-I am final year M.Tech. student at [Indian Institute of Technology Hyderabad](http://iith.ac.in/), supervised by [Dr. Vineeth N Balasubramanian](https://www.iith.ac.in/~vineethnb/index.html). I am currently working in the area of Geometric Deep Learning: generalizing Deep Learning concepts for graphs and manifolds (i.e. non-Euclidean data). I recently started writing blog about my understanding of papers on Geometric Deep Learning ([cnnforgraphs.blogspot.in](http://cnnforgraphs.blogspot.in/)). My research interest include: Social Graph analysis, Data Mining, Computer Vision, Visual Question Answering.
+I am final year M.Tech. student at [Indian Institute of Technology Hyderabad](http://iith.ac.in/), supervised by [Dr. Vineeth N Balasubramanian](https://www.iith.ac.in/~vineethnb/index.html). I am currently working in the area of Geometric Deep Learning: generalizing Deep Learning concepts for graphs and manifolds (i.e. non-Euclidean data). I recently started writing blog about my understanding of papers on Geometric Deep Learning ([cnnforgraphs.blogspot.in](http://cnnforgraphs.blogspot.in/)). My research interest include: Social Graph analysis, Data Mining, Computer Vision, Visual Question Answering. 
+
+Please find my resume [here](https://drive.google.com/file/d/1IyQWTOAf5dEKKrkWcJe4MJdn9ojlDCVL/view?usp=sharing).
 
 I am always open to work on new challenging problems from different domains. Please feel free to send me an email([cs15mtech11016@iith.ac.in](cs15mtech11016@iith.ac.in)) if you would like to collaborate.
 
 
 ### Updates:
+* \[*7-14 Apr 2018*\] Participated in Honeywell Aerospace Automation Challenge 2018 Hack-A-Thon.
 
 * \[*14 Mar 2018*\] Wrote blog post on [**Paper Summary #2: Convolutional Neural Network on Graphs with Fast Localized Spectral Filtering (NIPS 2016)**](https://cnnforgraphs.blogspot.in/2018/03/paper-summary-2-convolutional-neural.html).
 
