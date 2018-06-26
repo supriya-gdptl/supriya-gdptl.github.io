@@ -17,6 +17,9 @@ I am always open to work on new challenging problems from different domains. Ple
 
 
 ### Updates:
+
+* \[*25 Jun 2018*\] Successfully defended my MTech !! 
+
 * \[*7-14 Apr 2018*\] Participated in Honeywell Aerospace Automation Challenge 2018 Hack-A-Thon.
 
 * \[*14 Mar 2018*\] Wrote blog post on [**Paper Summary #2: Convolutional Neural Network on Graphs with Fast Localized Spectral Filtering (NIPS 2016)**](https://cnnforgraphs.blogspot.in/2018/03/paper-summary-2-convolutional-neural.html).
