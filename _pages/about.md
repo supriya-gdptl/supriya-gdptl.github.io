@@ -24,7 +24,7 @@ I am always open to work on new challenging problems from different domains. Ple
 
 * \[*14 Mar 2018*\] Wrote blog post on [**Paper Summary #2: Convolutional Neural Network on Graphs with Fast Localized Spectral Filtering (NIPS 2016)**](https://cnnforgraphs.blogspot.in/2018/03/paper-summary-2-convolutional-neural.html).
 
-* \[*8 Mar 2018*\] Gave a talk on **Geometric Deep Learning** at [CS5480-Deep Learning](http://www.iith.ac.in/~vineethnb/teaching.html) course.
+* \[*8 Mar 2018*\] Gave a talk on **Geometric Deep Learning** at [CS5480-Deep Learning](http://www.iith.ac.in/~vineethnb/teaching.html) course. \[[Slides](https://drive.google.com/file/d/1qHf_eVjcB3jKZdmKhmIy4xn6yugLb1oa/view?usp=sharing)\]
 
 * \[*23 Feb 2018*\] Wrote a blog post on [**Paper Summary #1: Learning Convolutional Neural Network for Graphs (ICML2016)**](https://cnnforgraphs.blogspot.in/2018/02/paper-summary-1-learning-convolutional.html).
 
