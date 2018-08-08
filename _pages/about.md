@@ -9,9 +9,11 @@ redirect_from:
 ---
 
 
-I am currently a Member of Technical Staff at Adobe, Bangalore. I have completed my M.Tech. from [Indian Institute of Technology Hyderabad](http://iith.ac.in/), supervised by [Dr. Vineeth N Balasubramanian](https://www.iith.ac.in/~vineethnb/index.html). My research work is in the area of Geometric Deep Learning: generalizing Deep Learning concepts for graphs and manifolds (i.e. non-Euclidean data). I recently started writing blog about my understanding of papers on Geometric Deep Learning ([cnnforgraphs.blogspot.in](http://cnnforgraphs.blogspot.in/)). My research interest include: Social Graph analysis, Data Mining, Computer Vision, Visual Question Answering. I am also looking for an opportunity to do PhD.
+I am a Research Assistant at [Indian Institute of Technology Hyderabad](http://iith.ac.in/)(IITH), supervised by [Dr. Vineeth N Balasubramanian](https://www.iith.ac.in/~vineethnb/index.html), with research work focused on the area of Geometric Deep Learning: generalizing Deep Learning concepts for graphs (i.e. non-Euclidean data). I have recently completed my M.Tech from IITH. My thesis topic was **"Undestanding Graph Data Through Deep Leaning Lens"** and final year work on **Interpretable AI** is under review at IEEE ICDM 2018. I also **write blogs** about my understanding of papers on Geometric Deep Learning ([cnnforgraphs.blogspot.in](http://cnnforgraphs.blogspot.in/)). 
 
-Please find my resume [here](https://drive.google.com/file/d/1V2QWGcJWwZDCCvxkQXsxtbKPnMi-u-Q-/view?usp=sharing).
+My research interest include: Social Graph analysis, Data Mining, Computer Vision, Visual Question Answering. I am also looking for an opportunity to do PhD.
+
+Please find my **resume** [here](https://drive.google.com/file/d/1V2QWGcJWwZDCCvxkQXsxtbKPnMi-u-Q-/view?usp=sharing).
 
 I am always open to work on new challenging problems from different domains. Please feel free to send me an email([cs15mtech11016@iith.ac.in](cs15mtech11016@iith.ac.in)) if you would like to collaborate.
 
