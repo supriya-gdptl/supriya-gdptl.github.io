@@ -1,11 +1,10 @@
 ---
-layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-## 1) STWalk: Learning Trajectory Representations in Temporal Graphs
+## - STWalk: Learning Trajectory Representations in Temporal Graphs
 
 Accepted as main research track paper in [CoDS-COMAD 2018](http://cods-comad.in/2018/index.html). STWalk analyzes the temporal behavior of nodes in dynamic graphs by doing random walks on graph at a current & past time-steps. STWalk outperforms baseline algorithms on 3 real-world datasets. Implemented in Python, TensorFlow-Keras.
 
@@ -14,7 +13,7 @@ Accepted as main research track paper in [CoDS-COMAD 2018](http://cods-comad.in/
 * [Link to code and data](https://github.com/supriya-pandhre/STWalk)
 
 
-## Cite
+#### Cite
 
 ```
 @inproceedings{pandhre2018stwalk,
@@ -27,13 +26,13 @@ Accepted as main research track paper in [CoDS-COMAD 2018](http://cods-comad.in/
 }
 ```
 
-## 2) Survey of Recent Advances in Visual Question Answering
+## - Survey of Recent Advances in Visual Question Answering
 
 The paper describes the approaches taken by various algorithms to extract image features, text features and the way these are employed to predict answers.
 
 *  [Link to paper](https://arxiv.org/pdf/1709.08203.pdf)
 
-## Cite:
+#### Cite:
 
 ```
 @article{pandhre2017survey,
@@ -45,7 +44,7 @@ The paper describes the approaches taken by various algorithms to extract image 
 
 ```
 
-## 3) Community-based Outlier Detection in Edge-attributed Graphs
+## - Community-based Outlier Detection in Edge-attributed Graphs
 
 The paper introduces a novel method that detects holistic outlier graph nodes by taking into account the node data and edge data simultaneously to detect anomalies.
 
@@ -54,7 +53,7 @@ The paper introduces a novel method that detects holistic outlier graph nodes by
 * [Link to code and data](https://github.com/supriya-pandhre/HCODA)
 
 
-## Cite:
+#### Cite:
 ```
 @article{pandhre2016community,
   title={Community-based Outlier Detection for Edge-attributed Graphs},
