@@ -5,7 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-# Projects
 
 -   ### 2nd YouTube-8M Video Understanding Challenge:
     -  Designing a machine learning model with size constarined of 1GB to predict video labels. Experimented with three different architectures. 
