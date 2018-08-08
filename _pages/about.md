@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a Research Assistant at [Indian Institute of Technology Hyderabad](http://iith.ac.in/)(IITH), supervised by [Dr. Vineeth N Balasubramanian](https://www.iith.ac.in/~vineethnb/index.html), with research work focused on the area of Geometric Deep Learning: generalizing Deep Learning concepts for graphs (i.e. non-Euclidean data). I have recently completed my M.Tech from IITH. My thesis topic was **"Undestanding Graph Data Through Deep Leaning Lens"** and final year work on **Interpretable AI** is under review at IEEE ICDM 2018. I also **write blogs** about my understanding of papers on Geometric Deep Learning ([cnnforgraphs.blogspot.in](http://cnnforgraphs.blogspot.in/)). 
+I am a Research Assistant at [Indian Institute of Technology Hyderabad](http://iith.ac.in/)(IITH), supervised by [Dr. Vineeth N Balasubramanian](https://www.iith.ac.in/~vineethnb/index.html). I work in the area of Graph Analysis and Geometric Deep Learning: generalizing Deep Learning concepts for graphs (i.e. non-Euclidean data). I have recently completed my M.Tech from IITH. My thesis topic was **"Undestanding Graph Data Through Deep Leaning Lens"** and final year work on **Interpretable AI** is under review at IEEE ICDM 2018. I also **write blogs** about my understanding of papers on Geometric Deep Learning ([cnnforgraphs.blogspot.in](http://cnnforgraphs.blogspot.in/)). 
 
 My research interest include: Social Graph analysis, Data Mining, Computer Vision, Visual Question Answering. I am also looking for an opportunity to do PhD.
 
@@ -19,6 +19,8 @@ I am always open to work on new challenging problems from different domains. Ple
 
 
 ### Updates:
+
+* \[*7 Aug 2018*\] Our team(me and [Rashmi Narvekar](https://www.linkedin.com/in/rashmi-narvekar-262708110/)) was ranked 186 out of 394 teams in Kaggle Challenge: [The 2nd YouTube-8M Video Understanding Challenge](https://kaggle.com/c/youtube8m-2018). We achieved Global Average Precision (GAP) score of 0.82852 on private leaderboard.
 
 * \[*25 Jun 2018*\] Successfully defended my MTech !! Link to [thesis](http://raiith.iith.ac.in/4093/1/Thesis_Mtech_CS_4093.pdf)
 
