@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Projects"
+permalink: /projects/
+author_profile: true
+---
+
 # Projects
 
 -   ### 2nd YouTube-8M Video Understanding Challenge:
