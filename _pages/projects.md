@@ -7,7 +7,7 @@ author_profile: true
 
 -   ### The 2nd YouTube-8M Video Understanding Challenge:
     -  Designing a machine learning model with size constrained of 1GB to predict video labels. Experimented with three different architectures. 
-    -  Our team could achieve the **Global Average Precision (GAP) score of 0.82853** with final **rank of 186** among the participated 394 teams across the different countries.
+    -  Our team could achieve the **Global Average Precision (GAP) score of 0.82853** with final **rank of 104** among the participated 394 teams across the different countries.
     -  \[code\], \[ [Kaggle Challenge Link](https://www.kaggle.com/c/youtube8m-2018)\]
 
 -   ### Using Generative Adversarial Network (GAN) for Image Completion:
