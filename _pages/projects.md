@@ -25,10 +25,11 @@ author_profile: true
    -  Every semester the university needs to generate the class time-table that satisfies certain hard-constraint and soft-constraints. **Generating optimal time-table** manually is laborious and challenging task. Hence, we designed an algorithm that makes this process automatic. 
    -  We considered six factors: department, class, course, weekday, time and room. We constructed a string of integer numbers indicating factors that are allocated. This **string indicates the chromosome**. Based on whether this allocation satisfies constraints the fitness score for this chromosome is calculated. We then use **two-point crossover and mutation** to find optimal chromosome (i.e. time-table).
    -  This project was part of my **B.Tech Thesis** and completed during final year of B.Tech at [VIT](http://www.vit.edu/index.php)
+   -  Mentor: [Dr. Manasi Patwardhan](https://www.linkedin.com/in/manasi-patwardhan-25215019/)
 
 - ### Exam-scheduling Using Graph Coloring Algorithm:
    -  In university, the courses are offered to students from different departments. Hence, while scheduling an exam for such courses, examination authorities need to take care that exam time-slot should not clash with other courses for which students have already registered.
    -  To solve this problem, we constructed a **graph with courses as nodes** and edge indicates that there exist at least one student who has registered for both courses (represented by two end nodes of an edge).
    -  This formulation has **simplified the problem of exam scheduling to graph coloring**, where color of the node represents the time-slot of alloted for the course. As per the graph coloring algorithm, we need to assign colors to nodes such a way that no two adjacent nodes can have same colors.
    -  This project was completed during my **third year of B.Tech**
-   
+   -  Mentor: [Dr. Manasi Patwardhan](https://www.linkedin.com/in/manasi-patwardhan-25215019/)
