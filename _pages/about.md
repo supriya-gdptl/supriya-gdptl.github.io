@@ -21,7 +21,7 @@ I am always open to work on new challenging problems from different domains. Ple
 
 * \[*7 Aug 2018*\] Our team(me and [Rashmi Narvekar](https://www.linkedin.com/in/rashmi-narvekar-262708110/)) was ranked 104 out of 394 teams in Kaggle Challenge: [The 2nd YouTube-8M Video Understanding Challenge](https://kaggle.com/c/youtube8m-2018). We achieved Global Average Precision (GAP) score of 0.82853 on private leaderboard. [Link to our code](https://github.com/supriya-pandhre/kaggle-youtube8m)
 
-* \[*25 Jun 2018*\] Successfully defended my MTech !! Link to [thesis](http://raiith.iith.ac.in/4093/1/Thesis_Mtech_CS_4093.pdf)
+* \[*25 Jun 2018*\] Successfully defended my MTech !! \[[Thesis](http://raiith.iith.ac.in/4093/1/Thesis_Mtech_CS_4093.pdf)\], \[[Presentation Slides](https://drive.google.com/file/d/1KQ0bB9yS5cVIG4smhzoEeXVab6dWYKZD/view)\]
 
 * \[*7-14 Apr 2018*\] Participated in Honeywell Aerospace Automation Challenge 2018 Hack-A-Thon.
 
