@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a final year M.Tech student with Research Assistantship at [Indian Institute of Technology Hyderabad](http://iith.ac.in/)(IITH), supervised by [Dr. Vineeth N Balasubramanian](https://www.iith.ac.in/~vineethnb/index.html). I work in the area of Computer Vision and Graph Analysis. Specifically, generalizing Deep Learning concepts for graphs i.e. non-Euclidean data. My M.Tech thesis topic was **"Undestanding Graph Data Through Deep Leaning Lens"** and final year work on **Interpretable AI** is under review at IEEE ICDM 2018. I also **write blogs** about my understanding of papers on Geometric Deep Learning ([cnnforgraphs.blogspot.in](http://cnnforgraphs.blogspot.in/)). 
+I have completed M.Tech with Research Assistantship from [Indian Institute of Technology Hyderabad](http://iith.ac.in/)(IITH), supervised by [Dr. Vineeth N Balasubramanian](https://www.iith.ac.in/~vineethnb/index.html). I work in the area of Computer Vision and Graph Analysis. Specifically, generalizing Deep Learning concepts for graphs i.e. non-Euclidean data. My M.Tech thesis topic was **"Undestanding Graph Data Through Deep Leaning Lens"** and final year work is under review at AAAI 2019. I also **write blogs** about my understanding of papers on Geometric Deep Learning ([cnnforgraphs.blogspot.in](http://cnnforgraphs.blogspot.in/)). 
 
 My research interest include: Computer Vision, Visual Question Answering, Social Graph analysis, Data Mining. I am also looking for an opportunity to do PhD.
 
