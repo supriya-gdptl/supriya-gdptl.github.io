@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I have completed M.Tech with Research Assistantship from [Indian Institute of Technology Hyderabad](http://iith.ac.in/)(IITH), supervised by [Dr. Vineeth N Balasubramanian](https://www.iith.ac.in/~vineethnb/index.html). I work in the area of Computer Vision and Graph Analysis. Specifically, generalizing Deep Learning concepts for graphs i.e. non-Euclidean data. My M.Tech thesis topic was **"Undestanding Graph Data Through Deep Leaning Lens"**\[[Link](http://raiith.iith.ac.in/4093/1/Thesis_Mtech_CS_4093.pdf)\] and final year work on Graph Classification is under review at [ECML-PKDD 2019 Journal Track](http://ecmlpkdd2019.org/submissions/journalTrack/). I also **write blogs** on my understanding of Geometric Deep Learning papers ([cnnforgraphs.blogspot.in](http://cnnforgraphs.blogspot.in/)). 
+I am a Research Intern at Max Planck Institute for Software Systems ([MPI-SWS](https://www.mpi-sws.org/)), supervised by [Dr. Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/). I have completed M.Tech with Research Assistantship from [Indian Institute of Technology Hyderabad](http://iith.ac.in/)(IITH), guided by [Dr. Vineeth N Balasubramanian](https://www.iith.ac.in/~vineethnb/index.html). I work in the area of Computer Vision and Graph Analysis. Specifically, generalizing Deep Learning concepts for graphs i.e. non-Euclidean data. My M.Tech thesis topic was **"Undestanding Graph Data Through Deep Leaning Lens"**\[[Link](http://raiith.iith.ac.in/4093/1/Thesis_Mtech_CS_4093.pdf)\] and final year work on Graph Classification is under review at [ECML-PKDD 2019 Journal Track](http://ecmlpkdd2019.org/submissions/journalTrack/). I also **write blogs** on my understanding of Geometric Deep Learning papers ([cnnforgraphs.blogspot.in](http://cnnforgraphs.blogspot.in/)). 
 
 My research interests include: Computer Vision, Visual Question Answering, Social Graph Analysis and Data Mining. I am also looking for an opportunity to do PhD.
 
@@ -18,6 +18,8 @@ I am always open to work on new challenging problems from different domains. Ple
 
 
 ### Updates:
+
+*  \[*4 March 2019*\] Started internship at MPI-SWS
 
 * \[*7 Aug 2018*\] Our team(me and [Rashmi Narvekar](https://www.linkedin.com/in/rashmi-narvekar-262708110/)) was ranked 104 out of 394 teams in Kaggle Challenge: [The 2nd YouTube-8M Video Understanding Challenge](https://kaggle.com/c/youtube8m-2018). We achieved Global Average Precision (GAP) score of 0.82853 on private leaderboard. [Link to our code](https://github.com/supriya-pandhre/kaggle-youtube8m)
 
