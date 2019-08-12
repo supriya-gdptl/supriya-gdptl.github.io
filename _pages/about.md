@@ -8,18 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Intern at Max Planck Institute for Software Systems ([MPI-SWS](https://www.mpi-sws.org/)), supervised by [Dr. Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/). I have completed M.Tech with Research Assistantship from [Indian Institute of Technology Hyderabad](http://iith.ac.in/)(IITH), guided by [Dr. Vineeth N Balasubramanian](https://www.iith.ac.in/~vineethnb/index.html). I work in the area of Computer Vision and Graph Analysis. Specifically, generalizing Deep Learning concepts for graphs i.e. non-Euclidean data. My M.Tech thesis topic was **"Undestanding Graph Data Through Deep Leaning Lens"**\[[Link](http://raiith.iith.ac.in/4093/1/Thesis_Mtech_CS_4093.pdf)\] and final year work on Graph Classification is under review at [ECML-PKDD 2019 Journal Track](http://ecmlpkdd2019.org/submissions/journalTrack/). I also **write blogs** on my understanding of Geometric Deep Learning papers ([cnnforgraphs.blogspot.in](http://cnnforgraphs.blogspot.in/)). 
+I am a PhD student at Department of Computing Science of Simon Fraser University, advised by [Prof. Manolis Savva](https://msavva.github.io/), working on Computer Vision and Computer Graphics. Completed a Research Internship at Max Planck Institute for Software Systems ([MPI-SWS](https://www.mpi-sws.org/)), supervised by [Prof. Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/). 
 
-My research interests include: Computer Vision, Visual Question Answering, Social Graph Analysis and Data Mining. I am also looking for an opportunity to do PhD.
+I have completed M.Tech with Research Assistantship from [Indian Institute of Technology Hyderabad](http://iith.ac.in/)(IITH), guided by [Prof. Vineeth N Balasubramanian](https://www.iith.ac.in/~vineethnb/index.html). I work in the area of Computer Vision and Graph Analysis. Specifically, generalizing Deep Learning concepts for graphs i.e. non-Euclidean data. My M.Tech thesis topic was **"Undestanding Graph Data Through Deep Leaning Lens"**\[[Link](http://raiith.iith.ac.in/4093/1/Thesis_Mtech_CS_4093.pdf)\] and final year work on Graph Classification is under review at [ECML-PKDD 2019 Journal Track](http://ecmlpkdd2019.org/submissions/journalTrack/). I also **write blogs** on my understanding of Geometric Deep Learning papers ([cnnforgraphs.blogspot.in](http://cnnforgraphs.blogspot.in/)). 
+
+My research interests include: Computer Vision, Computer Graphics, Visual Question Answering, Social Graph Analysis and Data Mining. 
 
 Please find my **resume** [here](https://drive.google.com/file/d/1disjTh3EbEuH2j-KCoDxZrZDlwQKUTLt/view?usp=sharing).
 
-I am always open to work on new challenging problems from different domains. Please feel free to send me an email([cs15mtech11016@iith.ac.in](cs15mtech11016@iith.ac.in)) if you would like to collaborate.
+I am always open to work on challenging problems from different domains. Please feel free to send me an email([spandhre@sfu.ca](spandhre@sfu.ca)) if you would like to collaborate.
 
 
 ### Updates:
 
-*  \[*4 March 2019*\] Started internship at MPI-SWS
+* \[*August 2019*\] Joined as a PhD student in [GrUVi lab](https://gruvi.cs.sfu.ca/) at Simon Fraser University, Vancouver, Canada ([SFU](https://www.sfu.ca/computing.html)), supervised by [Prof. Manolis Savva](https://msavva.github.io/).
+
+* \[*4 March 2019 - 31 May 2019*\] Completed Internship at MPI-SWS
 
 * \[*7 Aug 2018*\] Our team(me and [Rashmi Narvekar](https://www.linkedin.com/in/rashmi-narvekar-262708110/)) was ranked 104 out of 394 teams in Kaggle Challenge: [The 2nd YouTube-8M Video Understanding Challenge](https://kaggle.com/c/youtube8m-2018). We achieved Global Average Precision (GAP) score of 0.82853 on private leaderboard. [Link to our code](https://github.com/supriya-pandhre/kaggle-youtube8m)
 
