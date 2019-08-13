@@ -14,7 +14,7 @@ I have completed M.Tech with Research Assistantship from [Indian Institute of Te
 
 My research interests include: Computer Vision, Computer Graphics, Visual Question Answering, Social Graph Analysis and Data Mining. 
 
-Please find my **resume** [here](https://drive.google.com/file/d/17S70nVy5usHFB438SnSPgNaAerpiP5RV/view?usp=sharing).
+Please find my **resume** [here](https://drive.google.com/file/d/17S70nVy5usHFB438SnSPgNaAerpiP5RV/view?usp=sharing)(Last updated:Aug 2019).
 
 I am always open to work on challenging problems from different domains. Please feel free to send me an email([spandhre@sfu.ca](spandhre@sfu.ca)) if you would like to collaborate.
 
