@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Supriya Pandhre"
+title: "Supriya Gadi Patil"
 excerpt: ""
 author_profile: true
 redirect_from: 
