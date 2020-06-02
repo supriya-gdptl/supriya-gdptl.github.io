@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Supriya Pandhre"
+title                    : "Supriya Gadi Patil"
 title_separator          : "-"
-name                     : &name "Supriya Pandhre"
+name                     : &name "Supriya Gadi Patil"
 description              : &description "PhD Student at Simon Fraser University. Working on Computer Vision and Computer Graphics."
 url                      : https://supriya-pandhre.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "supriya-pandhre.github.io"
+repository               : "supriya-gdptl.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Supriya Pandhre"
+  name             : "Supriya Gadi Patil"
   avatar           : "img.jpg"
   bio              : "PhD Student at Simon Fraser University. Working on Computer Vision and Computer Graphics. Blog:cnnforgraphs.blogspot.in/"
   location         : 
   employer         :
   googlescholar    : "https://scholar.google.co.in/citations?user=hblJqn0AAAAJ&hl=en&oi=ao"
-  email            : "supriya.pandhre9@gmail.com"
+  email            : "supriyagdptl@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "supriya-pandhre"
+  github           : "supriya-gdptl"
   google_plus      : 
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "supriya-pandhre-b80a64115"
+  linkedin         : "supriya-gadi-patil-b80a64115"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "supriya_pandhre"
+  twitter          : "supriya_gdptl"
   vine             :
   weibo            :
   xing             :
