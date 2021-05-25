@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student at Simon Fraser University advised by [Prof. Manolis Savva](https://msavva.github.io/). My current work focuses on 3D indoor scene understanding, which includes learning object arrangement in a scene to reconstruct a given scene or generate a new one. 
 
-I have completed Masters' degree from [Indian Institute of Technology Hyderabad](http://iith.ac.in/)(IITH), guided by [Prof. Vineeth N Balasubramanian](https://www.iith.ac.in/~vineethnb/index.html). During this period I worked on Computer Vision and Graph Analysis.
+I have completed Masters' degree from [Indian Institute of Technology Hyderabad](http://iith.ac.in/)(IITH), supervised by [Prof. Vineeth N Balasubramanian](https://www.iith.ac.in/~vineethnb/index.html). During this period I worked on Computer Vision and Graph Analysis.
 
 <!--I have completed M.Tech with Research Assistantship from [Indian Institute of Technology Hyderabad](http://iith.ac.in/)(IITH), guided by [Prof. Vineeth N Balasubramanian](https://www.iith.ac.in/~vineethnb/index.html). I work in the area of Computer Vision and Graph Analysis. Specifically, generalizing Deep Learning concepts for graphs i.e. non-Euclidean data. My M.Tech thesis topic was **"Undestanding Graph Data Through Deep Leaning Lens"**\[[Link](http://raiith.iith.ac.in/4093/1/Thesis_Mtech_CS_4093.pdf)\]. I also **write blogs** on my understanding of Geometric Deep Learning papers ([cnnforgraphs.blogspot.in](http://cnnforgraphs.blogspot.in/)). -->
 
