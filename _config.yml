@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Supriya Gadi Patil"
 title_separator          : "-"
 name                     : &name "Supriya Gadi Patil"
-description              : &description "PhD Student at Simon Fraser University. Working on Computer Vision and Computer Graphics."
+description              : &description "PhD Student at Simon Fraser University"
 url                      : https://supriya-gdptl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "supriya-gdptl.github.io"
@@ -80,10 +80,10 @@ analytics:
 author:
   name             : "Supriya Gadi Patil"
   avatar           : "img.jpg"
-  bio              : "PhD Student at Simon Fraser University. Working on Computer Vision and Computer Graphics. Blog:cnnforgraphs.blogspot.in/"
-  location         : 
+  bio              : "PhD Student at Simon Fraser University"
+  location         : "Vancouver, Canada"
   employer         :
-  googlescholar    : "https://scholar.google.co.in/citations?user=hblJqn0AAAAJ&hl=en&oi=ao"
+  googlescholar    : "https://scholar.google.co.in/citations?user=hblJqn0AAAAJ"
   email            : "supriya.pandhre9@gmail.com"
   uri              :
   bitbucket        :
