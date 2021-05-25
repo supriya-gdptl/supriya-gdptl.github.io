@@ -8,26 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Simon Fraser University working on Computer Vision and Computer Graphics, advised by [Prof. Manolis Savva](https://msavva.github.io/). Completed a Research Internship at Max Planck Institute for Software Systems ([MPI-SWS](https://www.mpi-sws.org/)), supervised by [Prof. Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/). 
+I am a PhD student at Simon Fraser University advised by [Prof. Manolis Savva](https://msavva.github.io/). My current work focuses on 3D indoor scene understanding, which includes learning object arrangement in a scene to reconstruct a given scene or generate a new one. 
 
-I have completed M.Tech with Research Assistantship from [Indian Institute of Technology Hyderabad](http://iith.ac.in/)(IITH), guided by [Prof. Vineeth N Balasubramanian](https://www.iith.ac.in/~vineethnb/index.html). I work in the area of Computer Vision and Graph Analysis. Specifically, generalizing Deep Learning concepts for graphs i.e. non-Euclidean data. My M.Tech thesis topic was **"Undestanding Graph Data Through Deep Leaning Lens"**\[[Link](http://raiith.iith.ac.in/4093/1/Thesis_Mtech_CS_4093.pdf)\]. I also **write blogs** on my understanding of Geometric Deep Learning papers ([cnnforgraphs.blogspot.in](http://cnnforgraphs.blogspot.in/)). 
+I have completed Masters' degree from [Indian Institute of Technology Hyderabad](http://iith.ac.in/)(IITH), guided by [Prof. Vineeth N Balasubramanian](https://www.iith.ac.in/~vineethnb/index.html). During this period I worked on Computer Vision and Graph Analysis.
 
-My research interests include: Computer Vision, Computer Graphics, Visual Question Answering, Social Graph Analysis and Data Mining. 
+<!--I have completed M.Tech with Research Assistantship from [Indian Institute of Technology Hyderabad](http://iith.ac.in/)(IITH), guided by [Prof. Vineeth N Balasubramanian](https://www.iith.ac.in/~vineethnb/index.html). I work in the area of Computer Vision and Graph Analysis. Specifically, generalizing Deep Learning concepts for graphs i.e. non-Euclidean data. My M.Tech thesis topic was **"Undestanding Graph Data Through Deep Leaning Lens"**\[[Link](http://raiith.iith.ac.in/4093/1/Thesis_Mtech_CS_4093.pdf)\]. I also **write blogs** on my understanding of Geometric Deep Learning papers ([cnnforgraphs.blogspot.in](http://cnnforgraphs.blogspot.in/)). -->
 
-Please find my **resume** [here](https://drive.google.com/file/d/1Sckd5UaUiJDzz90ZGxg1-SVwLRLE0CI7/view?usp=sharing).
 
-I am always open to work on challenging problems from different domains. Please feel free to send me an email([spandhre@sfu.ca](spandhre@sfu.ca)) if you would like to collaborate.
+Please find my resume [here](https://drive.google.com/file/d/1uD_9zPe8wpgAm2ADpUjzaDvjCCYR8FP3/view?usp=sharing) \[Last updated: Apr 2021\].
+
+<!--I am always open to work on challenging problems from different domains. Please feel free to send me an email([spandhre@sfu.ca](spandhre@sfu.ca)) if you would like to collaborate.-->
 
 
 ### Updates:
 
 * \[*August 2019*\] Joined as a PhD student in [GrUVi lab](https://gruvi.cs.sfu.ca/) at Simon Fraser University, Vancouver, Canada ([SFU](https://www.sfu.ca/computing.html)), supervised by [Prof. Manolis Savva](https://msavva.github.io/).
 
-* \[*4 March 2019 - 31 May 2019*\] Completed Internship at MPI-SWS
+* \[*4 March 2019 - 31 May 2019*\] Completed Research Internship at Max Planck Institute for Software Systems ([MPI-SWS](https://www.mpi-sws.org/)), supervised by [Prof. Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/)
 
 * \[*7 Aug 2018*\] Our team(me and [Rashmi Narvekar](https://www.linkedin.com/in/rashmi-narvekar-262708110/)) was ranked 104 out of 394 teams in Kaggle Challenge: [The 2nd YouTube-8M Video Understanding Challenge](https://kaggle.com/c/youtube8m-2018). We achieved Global Average Precision (GAP) score of 0.82853 on private leaderboard. [Link to our code](https://github.com/supriya-pandhre/kaggle-youtube8m)
 
-* \[*25 Jun 2018*\] Successfully defended my MTech !! \[[Thesis](http://raiith.iith.ac.in/4093/1/Thesis_Mtech_CS_4093.pdf)\], \[[Presentation Slides](https://drive.google.com/file/d/1KQ0bB9yS5cVIG4smhzoEeXVab6dWYKZD/view)\]
+* \[*25 Jun 2018*\] Successfully defended my MTech !! \[[Thesis:Undestanding Graph Data Through Deep Leaning Lens](http://raiith.iith.ac.in/4093/1/Thesis_Mtech_CS_4093.pdf)\], \[[Presentation Slides](https://drive.google.com/file/d/1KQ0bB9yS5cVIG4smhzoEeXVab6dWYKZD/view)\]
 
 * \[*7-14 Apr 2018*\] Participated in Honeywell Aerospace Automation Challenge 2018 Hack-A-Thon.
 
