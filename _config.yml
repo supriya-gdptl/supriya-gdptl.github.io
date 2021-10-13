@@ -178,7 +178,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  work_experience:
     output: true
     permalink: /:collection/:path/
   projects:
@@ -236,7 +236,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: work_experience
     values:
       layout: single
       author_profile: true
