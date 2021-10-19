@@ -1,10 +1,7 @@
 ---
-layout: archive
 title: "Work Experience"
 permalink: /work_experience/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 ## *Research Interests*
@@ -21,25 +18,12 @@ redirect_from:
 
 ##  *Work experience*
 ### Full-time jobs:
-* **Research Assistant** (Aug, 2019 - Present)
-  * Organization: **Simon Fraser University, Vancouver, Canada**
-  * Supervisor: [Manolis Savva](http://msavva.github.io/).
-  * Work: 
-      * Research focuses on 3D indoor scene understanding.
-      * Current project on grouping similar objects in given indoor scene mesh. Some of the applications include scene editing, scene compression and scene retreival.
       
 * **Member of Technical Staff** (Jul, 2019- Oct, 2019)
    * Organization: **Adobe, Bangalore, India**
    * Work: 
        * Worked as a full-stack Java Developer
 
-* **Research Assistant** (Aug, 2015 - Aug, 2018)
-  * Organization: **Indian Institute of Technology Hyderabad**
-  * Supervisor: [Vineeth N Balasubramanian](http://www.iith.ac.in/~vineethnb/).
-  * Work: 
-    *  Worked on using Deep Learning concepts for Social Graph Analysis (Geometric Deep Learning).
-    *  Research work on temporal graphs accepted in ACM [CoDS-COMAD 2018](http://cods-comad.in/2018/index.html) conference: [STWalk](https://arxiv.org/pdf/1711.04150.pdf).
-    * Research paper on static graph analysis hosted on arXiv: [HCODA](https://arxiv.org/pdf/1612.09435.pdf).
 
 * **Software Engineer** (Aug, 2014 - July, 2015)
   * Organization: **Persistent Systems, Pune**

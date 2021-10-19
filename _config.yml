@@ -169,13 +169,10 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  education:
     output: true
     permalink: /:collection/:path/
   work_experience:
@@ -209,7 +206,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: education
     values:
       layout: single
       author_profile: true
