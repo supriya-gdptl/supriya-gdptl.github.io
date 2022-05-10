@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Simon Fraser University advised by [Prof. Manolis Savva](https://msavva.github.io/). 
+I am a PhD student at Simon Fraser University advised by [Prof. Manolis Savva](https://msavva.github.io/). Currently, doing research internship at Huawei Research Center, Vancouver.
 
 I work in the area of 3D indoor scene understanding and my current project focuses on evaluating different deep learning methods for detecting rotated instances of 3D objects in a given scene mesh.
 <!-- My current work focuses on 3D indoor scene understanding, which includes learning object arrangement in a scene to reconstruct a given scene or generate a new one.  -->
@@ -24,6 +24,8 @@ Please find my [resume here](https://drive.google.com/file/d/1uD_9zPe8wpgAm2ADpU
 
 
 ### Updates:
+
+* \[*May 2022*\] Started working as Research Intern in [Changqing Zou](https://www.linkedin.com/in/changqing-zou-1587a510/)'s team at Huawei Research Center, Vancouver.
 
 * \[*August 2019*\] Joined as a PhD student in [GrUVi lab](https://gruvi.cs.sfu.ca/) at Simon Fraser University, Vancouver, Canada ([SFU](https://www.sfu.ca/computing.html)), supervised by [Prof. Manolis Savva](https://msavva.github.io/).
 
