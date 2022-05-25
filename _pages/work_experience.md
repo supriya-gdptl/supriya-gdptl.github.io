@@ -32,11 +32,19 @@ author_profile: true
 
 
 ### Internships:
+
+* **Research Intern** (May, 2022 - Present \[Expected to end: Dec, 2022\])
+  * Organization: **Huawei, Vancouver Canada**
+  * * Supervisor: [Changqing Zou](https://www.linkedin.com/in/changqing-zou-1587a510/?originalSubdomain=ca)
+  * Work: 
+    * Research project on recovering SVBRDF from a single image of 3D object material. This is a follow up work on a paper by [Deschaintre et al.](https://arxiv.org/abs/1810.09718)
+
+
 * **Research Intern** (Mar, 2019 - May, 2019)
   * Organization: **Max Planck Institute for Software Systems, Kaiserslautern, Germany**
   * * Supervisor: [Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/)
   * Work: 
-    * worked on research project that used Reinforcement Learning for Temporal Point Processes to predict buying and selling times of shares to maximize the profit
+    * Worked on research project that used Reinforcement Learning for Temporal Point Processes to predict buying and selling times of shares to maximize the profit.
 
 * **Research Intern** (May, 2017 - July, 2017)
   * Organization: **Adobe, Noida**
