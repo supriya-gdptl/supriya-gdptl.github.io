@@ -19,7 +19,7 @@ author_profile: true
 ##  *Work experience*
 ### Full-time jobs:
       
-* **Member of Technical Staff** (Jul, 2019- Oct, 2019)
+* **Member of Technical Staff** (Jul, 2018- Oct, 2018)
    * Organization: **Adobe, Bangalore, India**
    * Work: 
        * Worked as a full-stack Java Developer
