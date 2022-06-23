@@ -25,6 +25,8 @@ Please find my [resume here](https://drive.google.com/file/d/13CRQ-WSPXjU0Yjkzd1
 
 ### Updates:
 
+* \[*8-11 August, 2022*\] Student Volunteer for [SIGGRAPH 2022](https://s2022.siggraph.org/) in-person conference at Vancouver.
+
 * \[*May 2022*\] Started working as Research Intern in [Changqing Zou](https://www.linkedin.com/in/changqing-zou-1587a510/)'s team at Huawei Research Center, Vancouver.
 
 * \[*August 2019*\] Joined as a PhD student in [GrUVi lab](https://gruvi.cs.sfu.ca/) at Simon Fraser University, Vancouver, Canada ([SFU](https://www.sfu.ca/computing.html)), supervised by [Prof. Manolis Savva](https://msavva.github.io/).
