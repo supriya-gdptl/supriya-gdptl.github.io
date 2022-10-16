@@ -37,7 +37,7 @@ author_profile: true
   * Organization: **Huawei, Vancouver Canada**
   * * Supervisor: [Xuebin Qin](https://xuebinqin.github.io/)
   * Work: 
-    * Working on 3D indoor scene reconstruction from single RGB image by retreival and alignment of CAD models.
+    * Working on 3D indoor scene reconstruction from single RGB image by retrieval and alignment of CAD models.
 
 
 * **Research Intern** (Mar, 2019 - May, 2019)
