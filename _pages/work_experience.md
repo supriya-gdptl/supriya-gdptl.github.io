@@ -35,9 +35,9 @@ author_profile: true
 
 * **Research Intern** (May, 2022 - Present \[Expected to end: Dec, 2022\])
   * Organization: **Huawei, Vancouver Canada**
-  * * Supervisor: [Changqing Zou](https://www.linkedin.com/in/changqing-zou-1587a510/?originalSubdomain=ca)
+  * * Supervisor: [Xuebin Qin](https://xuebinqin.github.io/)
   * Work: 
-    * Research project on recovering SVBRDF from a single image of 3D object material. This is a follow up work on a paper by [Deschaintre et al.](https://arxiv.org/abs/1810.09718)
+    * Working on 3D indoor scene reconstruction from single RGB image by retreival and alignment of CAD models.
 
 
 * **Research Intern** (Mar, 2019 - May, 2019)
