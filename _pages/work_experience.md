@@ -33,7 +33,7 @@ author_profile: true
 
 ### Internships:
 
-* **Research Intern** (May, 2022 - Present \[Expected to end: Dec, 2022\])
+* **Research Intern** (May, 2022 - Dec, 2022)
   * Organization: **Huawei, Vancouver Canada**
   * * Supervisor: [Xuebin Qin](https://xuebinqin.github.io/)
   * Work: 
