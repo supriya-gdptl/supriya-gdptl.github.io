@@ -8,16 +8,16 @@ author_profile: true
 
 * **PhD in Computer Vision and Graphics** (Aug, 2019 - Present)
   * Institute: **Simon Fraser University, Vancouver, Canada**
-  * Advisor: [Manolis Savva](http://msavva.github.io/).
-  <!--* GPA: 3.75 / 4.0
+  * Advisor: [Manolis Savva](http://msavva.github.io/)
+  <!-- * GPA: 3.75 / 4.0
   * Details: 
       * Research focuses on 3D indoor scene understanding.
-      * Current project is about grouping similar objects in given indoor scene mesh. Some of the applications include scene editing, scene compression and scene retrieval.-->
+      * Current project is about grouping similar objects in given indoor scene mesh. Some of the applications include scene editing, scene compression and scene retrieval. -->
       
 
 * **M.Tech in Computer Science** (Aug, 2015 - July, 2018)
   * Institute: **Indian Institute of Technology Hyderabad (IITH), India**
-  * Advisor: [Vineeth N Balasubramanian](http://www.iith.ac.in/~vineethnb/).
+  * Advisor: [Vineeth N Balasubramanian](http://www.iith.ac.in/~vineethnb/)
   * GPA: 9.50 / 10.0
   * Details: 
     *  Masters' degree with focus on machine learning
@@ -25,7 +25,7 @@ author_profile: true
     *  Research work on temporal graphs accepted in ACM [CoDS-COMAD 2018](http://cods-comad.in/2018/index.html) conference: [STWalk](https://arxiv.org/pdf/1711.04150.pdf).
     *  Research paper on static graph analysis hosted on arXiv: [HCODA](https://arxiv.org/pdf/1612.09435.pdf).
     *  Completed three internships during this period at Bosch, Suzuki and Adobe
-    <!--*  After graduation worked at Adobe as full-stack Java developer-->
+    <!-- *  After graduation worked at Adobe as full-stack Java developer -->
 
 
 * **B.Tech in Computer Science** (Aug, 2010 - July, 2014)
