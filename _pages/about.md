@@ -30,7 +30,7 @@ Find my [resume here](https://drive.google.com/file/d/13CRQ-WSPXjU0Yjkzd1YuEWKlN
 
 * \[*May 2022*\] Started working as a Research Intern in [Xuebin Qin](https://xuebinqin.github.io/)'s team at Huawei Research Center, Vancouver.
 
-* \[*August 2019*\] Joined as a PhD student in the [GrUVi lab](https://gruvi.cs.sfu.ca/) at Simon Fraser University, Vancouver, Canada ([SFU](https://www.sfu.ca/computing.html)), supervised by [Prof. Manolis Savva](https://msavva.github.io/).
+* \[*August 2019*\] Joined as a PhD student in the [GrUVi lab](https://gruvi.cs.sfu.ca/) at Simon Fraser University, Vancouver, Canada ([SFU](https://www.sfu.ca/computing.html)), advised by [Prof. Manolis Savva](https://msavva.github.io/).
 
 * \[*4 March 2019 - 31 May 2019*\] Completed Research Internship at Max Planck Institute for Software Systems ([MPI-SWS](https://www.mpi-sws.org/)), working with [Prof. Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/)
 
