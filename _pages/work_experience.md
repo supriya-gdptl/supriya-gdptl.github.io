@@ -11,10 +11,6 @@ Deep learning for computer vision and computer graphics, 3D shape and scene unde
 
 * **Deep Learning Frameworks**: PyTorch, TensorFlow, Keras
 * **Programming Languages**: Python, Java
-<!-- * **Machine Learning libraries**: Scikit-Learn, Pandas
-* **3D data analysis libraries**: Open3D, Trimesh, PyMesh 
-* **Graph analysis libraries**: NetworkX, Gephi
-* **Misc**: Java EE, Linux, Latex -->
 
 ##  *Work experience*
 ### Full-time jobs:
@@ -37,8 +33,7 @@ Deep learning for computer vision and computer graphics, 3D shape and scene unde
   * Organization: **Huawei, Vancouver Canada**
   * Supervisor: [Xuebin Qin](https://xuebinqin.github.io/)
   * Work: 
-    * Working on single-view scene reconstruction. <!-- 3D indoor scene reconstruction from single RGB image by retrieval and alignment of CAD models. -->
-
+    * Working on single-view scene reconstruction. 
 
 * **Research Intern** (Mar, 2019 - May, 2019)
   * Organization: **Max Planck Institute for Software Systems, Kaiserslautern, Germany**
@@ -51,7 +46,6 @@ Deep learning for computer vision and computer graphics, 3D shape and scene unde
   * Supervisor: [Balaji Krishnamurthy](https://in.linkedin.com/in/balaji-krishnamurthy-4241695)
   * Work: 
     * Research on Visual Question Answering (VQA) task. 
-    <!-- *  Implemented algorithm using TensorFlow, Keras. Achieved validation accuracy of 40% in 20 epochs. -->
     * Wrote a survey paper on (back-then) recent methods in VQA: [Link to paper](https://arxiv.org/pdf/1709.08203.pdf)
 
 * **Data Analyst Intern** (Dec, 2016)
@@ -66,7 +60,7 @@ Deep learning for computer vision and computer graphics, 3D shape and scene unde
   * Organization: **Bosch, Bangalore**
   * Supervisor: [Tony Francis](https://www.linkedin.com/in/tonyfrancis/)
   * Work: 
-    * Designed machine learning algorithms for analysis of sensor data. <!-- using Python-ScikitLearn, Pandas and Unscrambler.-->
+    * Designed machine learning algorithms for analysis of sensor data.
   
 
 
