@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Simon Fraser University advised by [Prof. Manolis Savva](https://msavva.github.io/). I work at the intersection of deep learning, computer vision and graphics. Currently, I am a Research Intern at Huawei Research Center, Vancouver.
+I am a graduate student at Simon Fraser University advised by [Prof. Manolis Savva](https://msavva.github.io/). I work at the intersection of deep learning, computer vision and graphics. Currently, I am a Research Intern at Huawei Research Center, Vancouver.
 
 My work explores developing and evaluating deep learning models for vision/graphics tasks such as 3D shape and scene understanding.  
 <!-- the  in the area of 3D indoor scene understanding and my current project focuses on evaluating different deep learning methods for detecting rotated instances of 3D objects in a given scene mesh. -->
@@ -30,7 +30,7 @@ Find my [resume here](https://drive.google.com/file/d/13CRQ-WSPXjU0Yjkzd1YuEWKlN
 
 * \[*May 2022*\] Started working as a Research Intern in [Xuebin Qin](https://xuebinqin.github.io/)'s team at Huawei Research Center, Vancouver.
 
-* \[*August 2019*\] Joined as a PhD student in the [GrUVi lab](https://gruvi.cs.sfu.ca/) at Simon Fraser University, Vancouver, Canada ([SFU](https://www.sfu.ca/computing.html)), advised by [Prof. Manolis Savva](https://msavva.github.io/).
+* \[*August 2019*\] Joined as a graduate student in the [GrUVi lab](https://gruvi.cs.sfu.ca/) at Simon Fraser University, Vancouver, Canada ([SFU](https://www.sfu.ca/computing.html)), advised by [Prof. Manolis Savva](https://msavva.github.io/).
 
 * \[*4 March 2019 - 31 May 2019*\] Completed Research Internship at Max Planck Institute for Software Systems ([MPI-SWS](https://www.mpi-sws.org/)), working with [Prof. Manuel Gomez Rodriguez](https://people.mpi-sws.org/~manuelgr/)
 
