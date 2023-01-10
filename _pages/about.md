@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student at Simon Fraser University advised by [Prof. Manolis Savva](https://msavva.github.io/). I work at the intersection of deep learning, computer vision and graphics. Currently, I am a Research Intern at Huawei Research Center, Vancouver.
+I am a graduate student at Simon Fraser University advised by [Prof. Manolis Savva](https://msavva.github.io/). I work at the intersection of deep learning, computer vision and graphics. 
+<!--Currently, I am a Research Intern at Huawei Research Center, Vancouver. -->
 
 My work explores developing and evaluating deep learning models for vision/graphics tasks such as 3D shape and scene understanding.  
 <!-- the  in the area of 3D indoor scene understanding and my current project focuses on evaluating different deep learning methods for detecting rotated instances of 3D objects in a given scene mesh. -->
@@ -25,6 +26,8 @@ Find my [resume here](https://drive.google.com/file/d/13CRQ-WSPXjU0Yjkzd1YuEWKlN
 
 
 ### Updates:
+
+* \[*Dec 2022*\] Completed research internship at Huawei.
 
 * \[*8-11 August, 2022*\] Student Volunteer for [SIGGRAPH 2022](https://s2022.siggraph.org/) in-person conference in Vancouver.
 
