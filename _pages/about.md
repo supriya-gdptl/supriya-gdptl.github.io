@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a graduate student at Simon Fraser University advised by [Prof. Manolis Savva](https://msavva.github.io/). I work at the intersection of deep learning, computer vision and graphics. 
+I am a Thesis-based Master's student at Simon Fraser University advised by [Prof. Manolis Savva](https://msavva.github.io/). I work at the intersection of deep learning, computer vision and graphics. 
 <!--Currently, I am a Research Intern at Huawei Research Center, Vancouver. -->
 
 My work explores developing and evaluating deep learning models for vision/graphics tasks such as 3D shape and scene understanding.  
@@ -20,8 +20,9 @@ I completed Masters' degree from the [Indian Institute of Technology Hyderabad](
 <!--I have completed M.Tech with Research Assistantship from [Indian Institute of Technology Hyderabad](http://iith.ac.in/)(IITH), guided by [Prof. Vineeth N Balasubramanian](https://www.iith.ac.in/~vineethnb/index.html). I work in the area of Computer Vision and Graph Analysis. Specifically, generalizing Deep Learning concepts for graphs i.e. non-Euclidean data. My M.Tech thesis topic was **"Undestanding Graph Data Through Deep Leaning Lens"**\[[Link](http://raiith.iith.ac.in/4093/1/Thesis_Mtech_CS_4093.pdf)\]. I also **write blogs** on my understanding of Geometric Deep Learning papers ([cnnforgraphs.blogspot.in](http://cnnforgraphs.blogspot.in/)). -->
 
 
-Find my [resume here](https://drive.google.com/file/d/13CRQ-WSPXjU0Yjkzd1YuEWKlNfGaJ10J/view?usp=sharing) \[Last updated: Jan 2023\].
+Find my [resume here](https://drive.google.com/file/d/13CRQ-WSPXjU0Yjkzd1YuEWKlNfGaJ10J/view?usp=sharing) \[Last updated: Feb 2023\].
 
+I am looking for a full-time Machine Learning Engineer roles. If your team has any open positions that align with my profile, please reach out to me. I'd appreciate the opportunity to chat about potential opportunities.
 <!--I am always open to work on challenging problems from different domains. Please feel free to send me an email([spandhre@sfu.ca](spandhre@sfu.ca)) if you would like to collaborate.-->
 
 
