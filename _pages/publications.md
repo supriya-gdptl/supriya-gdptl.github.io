@@ -3,6 +3,16 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* **Evaluating 3D Shape Analysis Methods for Robustness to Rotation Invariance**
+    * Accepted for Oral Presentation at [Conference on Robots and Vision (CRV) 2023](https://www.computerrobotvision.org/)
+    * We analyze the robustness of recent 3D shape descriptors to SO(3) rotations, something that is fundamental to shape modeling. 
+    * We benchmark different methods for feature extraction and classification in the context of _Instance Classification_ task.
+    * We systematically contrast different choices in a variety of experimental settings investigating the impact on the performance under: 
+       * different rotation distributions
+       * different degrees of partial observations on the object
+       * different levels of difficulty of negative pairs
+    * Our study provides useful pointers in making design choices for modeling rotation-invariance for shape encoding.
+
 
 * **STWalk: Learning Trajectory Representations in Temporal Graphs**
 
