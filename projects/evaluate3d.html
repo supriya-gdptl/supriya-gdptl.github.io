@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Evaluate 3D Shape Analysis Methods">
+    <meta name="author" content="Supriya Gadi Patil,
+                                 Angel X. Chang,
+                                 Manolis Savva">
+
+    <title>Evaluating 3D Shape Analysis Methods for Robustness to Rotation Invariance</title>
+    <!-- Bootstrap core CSS -->
+    <!--link href="bootstrap.min.css" rel="stylesheet"-->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <!-- Custom styles for this template -->
+    <link href="offcanvas.css" rel="stylesheet">
+    <!--    <link rel="icon" href="img/favicon.gif" type="image/gif">-->
+
+    <!-- Loads <model-viewer> for modern browsers: -->
+    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.js">
+    </script>
+</head>
+
+<body>
+    <div class="jumbotron jumbotron-fluid">
+        <div class="container"></div>
+        <h2>Evaluating 3D Shape Analysis Methods for Robustness <br/>to Rotation Invariance</h2>
+        <hr>
+        <p class="authors">
+            <a href="https://supriya-gdptl.github.io/"> Supriya Gadi Patil</a>,
+            <a href="https://angelxuanchang.github.io/"> Angel X. Chang</a>,
+            <a href="https://msavva.github.io/"> Manolis Savva</a>
+            <br/>
+            <b>Accepted as Oral Presentation at the <a href="https://www.computerrobotvision.org/">  Conference for Robots and Vision </a>(CRV) 2023 </b>
+        </p>
+        <div class="btn-group" role="group" aria-label="Top menu">
+            <a class="btn btn-primary" href="https://arxiv.org/abs/2305.18557">Paper</a> 
+            <a class="btn btn-primary" href="https://github.com/supriya-gdptl">Code</a> <!-- TODO: -->
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="section">
+            <div class="row align-items-center">
+                <div class="col justify-content-center text-center">
+                    <img src="img/Overview_diagram.png" style="width:70%; margin-right:-20px; margin-top:-10px;">
+                    </video>
+                </div>
+            </div>
+            <hr>
+            <h2>Abstract</h2>
+            <p>
+                In this paper, we analyze the robustness of recent 3D shape descriptors to SO(3) rotations, something that is fundamental to shape modeling. 
+                Specifically, we formulate the task of rotated 3D object instance detection. To do so, we consider a database of 3D indoor scenes, 
+                where objects occur in different orientations. We benchmark different methods for feature extraction and 
+                classification in the context of this task. We systematically contrast different choices in a variety of experimental settings 
+                investigating the impact on the performance of different rotation distributions, different degrees of partial observations on the object,
+                and the different levels of difficulty of negative pairs. Our study, on a synthetic dataset of 3D scenes 
+                where objects instances occur in different orientations, reveals that deep learning-based rotation invariant methods are effective for relatively easy settings
+                with easy-to-distinguish pairs. However, their performance decreases significantly when the difference in rotations on the input pair is large, 
+                or when the degree of observation of input objects is reduced, or the difficulty level of input pair is increased. 
+                Finally, we connect feature encodings designed for rotation-invariant methods to 3D geometry that enable them to acquire the property of rotation invariance. 
+            </p>
+        </div>
+
+        <div class="section">
+            <h2>Methodology</h2>
+            <hr>
+            <p>
+                Our approach for identifying a pair of object instances being the same (or not) involves two steps – (a) feature extraction, and (b) classification. The feature extraction module explores eight different shape analysis methods. The classification module, which takes in the feature vectors from the previous step, explores two ways to output a binary indicator for the proposed instance classification task.
+            </p>
+            <hr>
+            <h3>Feature Extraction Module</h3>
+            <p> 
+                We consider two categories of 3D shape analysis methods: <b>rotation-sensitive</b> and <b>rotation-invariant</b> methods.
+            </p>
+            <br/>
+            <div class="row align-items-center">
+                <div class="col justify-content-center text-center">
+                    <img src="img/feature_extraction_module.png" style="width:70%; margin-right:-20px; margin-top:-10px;">
+                    </video>
+                </div>
+            </div>
+            <!--<br/><br/>
+            <b>Rotation-sensitive Methods:</b>
+            <br/>
+            <comment> Following methods do not take rotation invariance into account and therefore are vulnerable to rotational transformations. Hence, we categorize them as <i>Rotation-sensitive</i> methods. <br/>
+            
+            <br/>
+            <ul>
+                <li><b>PointNet++</b>(Qi et. al. 2017) is a point cloud based shape analysis method. </li>
+                <li><b>IMNET</b>(Chen et. al. 2019) is a neural network-based generative shape modeling method for learning implicit fields. </li>
+                <li><b>Occupancy Network</b> (ONet) (Mescheder et.al. 2019) is an approach to represent 3D shapes as implicit functions. Similar to IMNET</li>
+                <li><b>Vector Neuron Network</b> (VNN) (Deng et.al. 2021) learns rotation equivariant implicit representation of 3d shapes</li>
+            </ul>
+            <br/>
+            <b>Rotation-invariant Methods:</b>
+            <comment> Rotation-invariant methods are the ones that are designed to be unaffected by changes in ori- entation. Here, we considered one traditional and four deep learning-based rotation-invariant methods.
+            <br/><br/>
+            <ul>
+                <li><b>3D Zernike</b> (Novotni et.al. 2003) calculates rotation-invariant features in a traditional analytical fashion and does not require any training (unlike other deep learning-based methods), making it a good baseline.</li>
+                <li><b>LGR-Net</b> (Local-Global Representation Network) (Zhao et.al. 2019) is a neural network architecture designed for learning rotation-invariant features on point clouds.</li>
+                <li><b>RI-Conv++</b> (Rotation Invariant Convolution Network) (Zhang et.al. 2022) is a point cloud-based convolutional network that can learn rotation-invariant features from local regions of the input point cloud. </li>
+                <li><b>PaRI-Conv</b> (Pose-aware Rotation Invariant Convolution Network) (Chen et.al. 2022) is a point cloud-based convolutional network that learns rotation-invariant features from local regions of the input point cloud.</li>
+                <li><b>VNN-G</b> (a variant of Vector Neuron Network (Deng et.al. 2021)) are the rotation-invariant features obtained by calculating Gram matrix of Vector Neuron Network (VNN) features.</li>
+            </ul>-->
+            <hr>
+            <h3>Classification module</h3>
+            <p>
+                This module consumes a pair of shape descriptors corresponding to a pair of rotated 3D objects and outputs a binary indicator of 'same-object' or 'not-same-object' label. A binary output can be obtained in the following two ways.
+            </p>
+
+            <div class="row align-items-center">
+                <div class="col justify-content-center text-center">
+                    <img src="img/classification_module.png" style="width:70%; margin-right:-20px; margin-top:-10px;">
+                    </video>
+                </div>
+            </div>
+            <!--<br/><br/>
+            <ul>
+                <li><b>Thresholding</b>: We use this method to obtain an optimal threshold from a scalar input (in our case, this scalar input is the cosine similarity value between shape descriptors of 3D objects in the input pair to our pipeline), to predict a binary class label.</li>
+                <li><b>Single Layer Neural Network</b>: We also consider a learning-based scheme to get a binary output for classification. We essentially train a fully connected (FC) layer by employing a sigmoid activation on the cosine similarity value and compare its output with the ground truth. We use the binary cross-entropy loss and backpropagate the gradients.</li>
+            </ul>
+            <comment>
+            <div class="row align-items-center">
+                <div class="col justify-content-center text-center">
+                    <img src="img/single_layer_NN.png" style="width:80%; margin-right:-20px; margin-top:-10px;">
+                </div>
+            </div>-->
+            
+        </div>
+        <br/>
+        <!--<div class="section">
+            <h2>Dataset</h2>
+            <hr>
+            <p>
+                For our experiments, we consider 1500 scenes from 3D-Front dataset (Fu et.al. 2021). These scenes contain 3647 unique 3D objects from 7 categories. They are Cabinet, Sofa, Chair, Table, Bed, Lighting, and Pier/Stool. These objects are used to create positive and negative pairs as shown below. We create 10,000 such pairs with ratio of 50:50 for positive and negative pairs. 
+            </p>
+            <br/>
+            <div class="row align-items-center">
+                <div class="col justify-content-center text-center">
+                    <img src="img/pair_dataset.png" style="width:80%; margin-right:-20px; margin-top:-10px;">
+                </div>
+            </div>
+        </div>-->
+
+        <div class="section">
+            <h2>Experiments</h2>
+            <hr>
+            <p>
+                The design of our experiments for instance classification task revolves around <b>three axes</b> – (a) types of object rotations, (b) degree of object observations (partial/whole, and if partial, how much?), and (c) different levels of difficulty of negative pairs. 
+
+                Specifically, we consider four different cases of object rotations, four different cases of partial object observations, and three levels of difficulty of negative pairs, yielding <b>forty-eight (4 × 4 × 3) different experimental settings</b>. 
+            </p>
+            <br/>
+            <div class="row align-items-center">
+                <div class="col justify-content-center text-center">
+                    <img src="img/experimental_settings.png" style="width:80%; margin-right:-20px; margin-top:-10px;">
+                </div>
+            </div>
+        </div>
+        <div class="section">
+            <h2>Results</h2>
+            <hr>
+            <p>
+                We measure the performance of different 3D shape analysis methods under different types of object rotations, degrees of observations and difficulty levels of negative pairs, on instance classification task. Below table shows effect of negative pairs. Please see our <a href="https://arxiv.org/abs/2305.18557"></a> paper for more results on other experimental settings.
+            </p>
+            <br/>
+            <div class="row align-items-center">
+                <div class="col justify-content-center text-center">
+                    <img src="img/result_negative_pairs.png" style="width:80%; margin-right:-20px; margin-top:-10px;">
+                </div>
+            </div>
+            <hr>
+            <h2>Why RI-Conv++ performs better in most cases?</h2>
+            <br/><br/>
+            <div class="row align-items-center">
+                <div class="col justify-content-center text-center">
+                    <img src="img/reason_riconv2_better1.png" style="width:60%; margin-right:-20px; margin-top:-10px;">
+                </div>
+            </div>
+            <div class="row align-items-center">
+                <div class="col justify-content-center text-center">
+                    <img src="img/reason_riconv2_better2.png" style="width:60%; margin-right:-20px; margin-top:-10px;">
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+        <h2>Paper</h2>
+        <hr>
+        <div class="row align-items-center">
+            <div class="col justify-content-center text-center">
+                <a href="https://arxiv.org/abs/2305.18557">
+                    <img src="img/paper_thumbnail.png" style="width:50%; margin-right:-20px; margin-top:-10px;">
+                </a>
+            </div>
+        </div>
+    </div>
+
+        <div class="section">
+            <h2>Bibtex</h2>
+            <hr>
+            <div class="bibtexsection">
+                @article{patil2023evaluating,
+                  title={Evaluating 3D Shape Analysis Methods for Robustness to Rotation Invariance},
+                  author={Patil, Supriya Gadi and Chang, Angel X and Savva, Manolis},
+                  journal={arXiv preprint arXiv:2305.18557},
+                  year={2023}
+                }
+        </div>
+        </div> 
+
+        <div class="section">
+            <h2>Acknowledgements</h2>
+            <hr>
+            <div class="acknowledgements">
+                This work was funded in part by a Canada CIFAR AI Chair, a Canada Research Chair and NSERC Discovery
+                Grant, and enabled in part by support from WestGrid and Compute Canada.
+            </div>
+        </div>
+
+        <hr>
+
+        <footer>
+            <p>Send feedback and questions to <a href="https://supriya-gdptl.github.io">Supriya Gadi Patil</a>. Website template
+                from <a href="https://www.vincentsitzmann.com/metasdf/">MetaSDF</a>. </p>
+        </footer>
+    </div>
+
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+        integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
+        crossorigin="anonymous"></script>
+
+</body>
+
+</html>
