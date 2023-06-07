@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Thesis-based Master's student (PhD discontinued) at Simon Fraser University advised by [Prof. Manolis Savva](https://msavva.github.io/). I work at the intersection of deep learning, computer vision and graphics. 
+I am a Thesis-based Master's student at Simon Fraser University advised by [Prof. Manolis Savva](https://msavva.github.io/). I work at the intersection of deep learning, computer vision and graphics. 
 <!--Currently, I am a Research Intern at Huawei Research Center, Vancouver. -->
 
 My work explores developing and evaluating deep learning models for vision/graphics tasks such as 3D shape and scene understanding.  
