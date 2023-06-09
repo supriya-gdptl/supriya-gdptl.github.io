@@ -12,6 +12,7 @@ author_profile: true
        * different degrees of partial observations on the object
        * different levels of difficulty of negative pairs
     * Our study provides useful pointers in making design choices for modeling rotation-invariance for shape encoding.
+    * [Project website](https://supriya-gdptl.github.io/papers/evaluate3d.html), &nbsp;&nbsp;&nbsp;[Link to paper](https://arxiv.org/abs/2305.18557), &nbsp;&nbsp;&nbsp; [Cite(BibTex)](https://scholar.googleusercontent.com/scholar.bib?q=info:O-gm-0rBkgAJ:scholar.google.com/&output=citation&scisdr=Cm1eVw1WEPWHhyNwv2g:AGlGAw8AAAAAZIN2p2gay6W0abzhpV_e8_r7kJ8&scisig=AGlGAw8AAAAAZIN2pwsXbek8NboCLKwdJX8ICE4&scisf=4&ct=citation&cd=-1&hl=en)
 
 
 * **STWalk: Learning Trajectory Representations in Temporal Graphs**
