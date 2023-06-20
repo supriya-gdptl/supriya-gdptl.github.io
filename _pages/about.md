@@ -28,6 +28,8 @@ I am looking for a full-time Machine Learning Engineer roles. If your team has a
 
 ### Updates:
 
+* \[*June 2023*\] Paper **accepted** at Computer Graphics Forum (CGF) 2023: "Advances in Data-Driven Analysis and Synthesis of 3D Indoor Scenes". \[[Paper](https://arxiv.org/abs/2304.03188)\]
+
 * \[*April 2023*\] Paper accepted for **Oral Presentation** at [Conference on Robots and Vision (CRV) 2023](https://www.computerrobotvision.org/): "Evaluating 3D Shape Analysis Methods for Robustness to Rotation Invariance". \[[Paper](https://arxiv.org/abs/2305.18557)\] \[[Project website](https://supriya-gdptl.github.io/papers/evaluate3d.html)\]
 
 * \[*April 2023*\] Check out our new survey paper: [Advances in Data-Driven Analysis and Synthesis of 3D Indoor Scenes](https://arxiv.org/abs/2304.03188)
