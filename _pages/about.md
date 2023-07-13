@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Thesis-based Master's student at Simon Fraser University advised by [Prof. Manolis Savva](https://msavva.github.io/). I work at the intersection of deep learning, computer vision and graphics. 
+I completed MSc-Thesis degree from Department of Computing Science at Simon Fraser University advised by [Prof. Manolis Savva](https://msavva.github.io/) in April 2023. I work at the intersection of deep learning, computer vision and graphics. 
 <!--Currently, I am a Research Intern at Huawei Research Center, Vancouver. -->
 
 My research work explores developing and evaluating deep learning models for vision/graphics tasks such as 3D shape and scene understanding.  
@@ -28,7 +28,9 @@ I am looking for a full-time Machine Learning Engineer roles. If your team has a
 
 ### Updates:
 
-* \[*June 2023*\] Paper **accepted** at Computer Graphics Forum (CGF) 2023: "Advances in Data-Driven Analysis and Synthesis of 3D Indoor Scenes". \[[Paper](https://arxiv.org/abs/2304.03188)\]
+* \[*June 2023*\] Paper **accepted** [with minor revision] at Computer Graphics Forum (CGF) 2023: "Advances in Data-Driven Analysis and Synthesis of 3D Indoor Scenes". \[[Paper](https://arxiv.org/abs/2304.03188)\]
+
+* \[*April 2023*\] Defended MSc-Thesis degree. Here is a link to [my thesis](https://summit.sfu.ca/item/36104).
 
 * \[*April 2023*\] Paper accepted for **Oral Presentation** at [Conference on Robots and Vision (CRV) 2023](https://www.computerrobotvision.org/): "Evaluating 3D Shape Analysis Methods for Robustness to Rotation Invariance". \[[Paper](https://arxiv.org/abs/2305.18557)\] \[[Project website](https://supriya-gdptl.github.io/papers/evaluate3d.html)\]
 
