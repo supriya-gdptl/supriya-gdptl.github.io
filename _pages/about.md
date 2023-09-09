@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I completed MSc-Thesis degree from Department of Computing Science at Simon Fraser University advised by [Prof. Manolis Savva](https://msavva.github.io/) in April 2023. I work at the intersection of deep learning, computer vision and graphics. 
+I completed MSc-Thesis degree from Department of Computing Science at Simon Fraser University advised by [Prof. Manolis Savva](https://msavva.github.io/) in April 2023. <!--I work at the intersection of deep learning, computer vision and graphics. -->
 <!--Currently, I am a Research Intern at Huawei Research Center, Vancouver. -->
 
-My research work explores developing and evaluating deep learning models for vision/graphics tasks such as 3D shape and scene understanding.  
+<!--My research work explores developing and evaluating deep learning models for vision/graphics tasks such as 3D shape and scene understanding.  -->
 <!-- the  in the area of 3D indoor scene understanding and my current project focuses on evaluating different deep learning methods for detecting rotated instances of 3D objects in a given scene mesh. -->
 <!-- My current work focuses on 3D indoor scene understanding, which includes learning object arrangement in a scene to reconstruct a given scene or generate a new one.  -->
 
@@ -19,14 +19,18 @@ My research work explores developing and evaluating deep learning models for vis
 
 <!--I have completed M.Tech with Research Assistantship from [Indian Institute of Technology Hyderabad](http://iith.ac.in/)(IITH), guided by [Prof. Vineeth N Balasubramanian](https://www.iith.ac.in/~vineethnb/index.html). I work in the area of Computer Vision and Graph Analysis. Specifically, generalizing Deep Learning concepts for graphs i.e. non-Euclidean data. My M.Tech thesis topic was **"Undestanding Graph Data Through Deep Leaning Lens"**\[[Link](http://raiith.iith.ac.in/4093/1/Thesis_Mtech_CS_4093.pdf)\]. I also **write blogs** on my understanding of Geometric Deep Learning papers ([cnnforgraphs.blogspot.in](http://cnnforgraphs.blogspot.in/)). -->
 
+I am looking for a full-time Machine Learning Engineer role. If your team has any open positions that align with my profile, please reach out to me. I'd appreciate the opportunity to chat about potential opportunities.
 
-Find my [resume here](https://drive.google.com/file/d/13CRQ-WSPXjU0Yjkzd1YuEWKlNfGaJ10J/view?usp=sharing) \[Last updated: June 2023\].
-
-I am looking for a full-time Machine Learning Engineer roles. If your team has any open positions that align with my profile, please reach out to me. I'd appreciate the opportunity to chat about potential opportunities.
+<!--Please find my [resume here](https://drive.google.com/file/d/13CRQ-WSPXjU0Yjkzd1YuEWKlNfGaJ10J/view?usp=sharing) \[Last updated: Sept 2023\]. -->
+Please find my [resume here](https://drive.google.com/file/d/1roPeUTe5PggRvKeRwFL9XjmbGZY0efHj/view?usp=sharing) \[Last updated: Sept 2023\].
 <!--I am always open to work on challenging problems from different domains. Please feel free to send me an email([spandhre@sfu.ca](spandhre@sfu.ca)) if you would like to collaborate.-->
 
 
 ### Updates:
+
+* \[*Sept 2023*\] 🌱 Completed Certificate Course: **Generative AI with Large Language Models(LLM)** ([Certificate](https://coursera.org/share/92686437a3e6cfd9a09221bb64fb366d))
+  
+* \[*Aug 2023*\] 🌱 Completed Certificate Course: **MLOps - CI/CD for ML** ([Certificate](https://www.credential.net/embed/ddc13172-dc7a-4617-9319-2135cee0193d))
 
 * \[*June 2023*\] Paper **accepted** [with minor revision] at Computer Graphics Forum (CGF) 2023: "Advances in Data-Driven Analysis and Synthesis of 3D Indoor Scenes". \[[Paper](https://arxiv.org/abs/2304.03188)\]
 
