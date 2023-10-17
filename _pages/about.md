@@ -24,7 +24,8 @@ I am looking for a full-time Machine Learning Engineer role. If your team has an
 <!--Please find my [resume here](https://drive.google.com/file/d/13CRQ-WSPXjU0Yjkzd1YuEWKlNfGaJ10J/view?usp=sharing) \[Last updated: Sept 2023\]. -->
 <!--Please find my [resume here](https://drive.google.com/file/d/1roPeUTe5PggRvKeRwFL9XjmbGZY0efHj/view?usp=sharing) \[Last updated: Sept 2023\].-->
 <!--I am always open to work on challenging problems from different domains. Please feel free to send me an email([spandhre@sfu.ca](spandhre@sfu.ca)) if you would like to collaborate.-->
-Please find my [resume here](https://drive.google.com/file/d/16NRQSndS-SftIu0hmcNP90lVYs0W1kBN/view?usp=sharing) \[Last updated: Sept 2023\].
+<!--Please find my [resume here](https://drive.google.com/file/d/16NRQSndS-SftIu0hmcNP90lVYs0W1kBN/view?usp=sharing) \[Last updated: Sept 2023\].-->
+Please find my [resume here](https://drive.google.com/file/d/1cs36ze6wDmGK4Fl3_5Wl4hDt_K_c9RYU/view?usp=sharing)\[Last updated: Sept 2023\].
 
 
 ### Updates:
