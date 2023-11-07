@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I completed MSc-Thesis degree from Department of Computing Science at Simon Fraser University advised by [Prof. Manolis Savva](https://msavva.github.io/) in April 2023. <!--I work at the intersection of deep learning, computer vision and graphics. -->
+I completed Research-based Master's degree in Computer Science in June 2023 from Simon Fraser University, advised by [Manolis Savva](https://msavva.github.io/). <!--I work at the intersection of deep learning, computer vision and graphics. -->
 <!--Currently, I am a Research Intern at Huawei Research Center, Vancouver. -->
 
 <!--My research work explores developing and evaluating deep learning models for vision/graphics tasks such as 3D shape and scene understanding.  -->
@@ -30,13 +30,17 @@ Please find my [resume here](https://drive.google.com/file/d/1cs36ze6wDmGK4Fl3_5
 
 ### Updates:
 
+* \[*Nov 2023*\] 🏆 Completed 200 LeetCode problems
+  <!-- 7 Nov 2023-->
+  <img src="https://github.com/supriya-gdptl/supriya-gdptl/blob/main/leetcode_200problem_milestone.png" width="350" height="175"/>
+
 * \[*Sept 2023*\] 🌱 Completed Certificate Course: **Generative AI with Large Language Models(LLM)** ([Certificate](https://coursera.org/share/92686437a3e6cfd9a09221bb64fb366d))
   
 * \[*Aug 2023*\] 🌱 Completed Certificate Course: **MLOps - CI/CD for ML** ([Certificate](https://www.credential.net/embed/ddc13172-dc7a-4617-9319-2135cee0193d))
 
-* \[*June 2023*\] Paper **accepted** [with minor revision] at Computer Graphics Forum (CGF) 2023: "Advances in Data-Driven Analysis and Synthesis of 3D Indoor Scenes". \[[Paper](https://arxiv.org/abs/2304.03188)\]
+* \[*June 2023*\] Paper **accepted** at Computer Graphics Forum (CGF) 2023: "Advances in Data-Driven Analysis and Synthesis of 3D Indoor Scenes". \[[Paper](https://arxiv.org/abs/2304.03188)\]
 
-* \[*April 2023*\] Defended MSc-Thesis degree. Here is a link to [my thesis](https://summit.sfu.ca/item/36104).
+* \[*April 2023*\] Defended M.Sc.-Thesis degree. Here is a link to [my thesis](https://summit.sfu.ca/item/36104).
 
 * \[*April 2023*\] Paper accepted for **Oral Presentation** at [Conference on Robots and Vision (CRV) 2023](https://www.computerrobotvision.org/): "Evaluating 3D Shape Analysis Methods for Robustness to Rotation Invariance". \[[Paper](https://arxiv.org/abs/2305.18557)\] \[[Project website](https://supriya-gdptl.github.io/papers/evaluate3d.html)\]
 
