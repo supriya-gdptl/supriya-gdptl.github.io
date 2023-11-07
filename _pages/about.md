@@ -32,7 +32,7 @@ Please find my [resume here](https://drive.google.com/file/d/1cs36ze6wDmGK4Fl3_5
 
 * \[*Nov 2023*\] 🏆 Completed 200 LeetCode problems
   <!-- 7 Nov 2023-->
-  <img src="https://github.com/supriya-gdptl/supriya-gdptl.github.io/blob/master/files/leetcode_200problem_milestone.png" width="400" height="190"/>
+  <img src="./files/leetcode_200problem_milestone.png" width="400" height="190"/>
 
 * \[*Sept 2023*\] 🌱 Completed Certificate Course: **Generative AI with Large Language Models(LLM)** ([Certificate](https://coursera.org/share/92686437a3e6cfd9a09221bb64fb366d))
   
