@@ -30,7 +30,7 @@ Please find my [resume here](https://drive.google.com/file/d/1cs36ze6wDmGK4Fl3_5
 
 ### Updates:
 
-* \[*Nov 2023*\] 🏆 Completed 200 LeetCode problems
+* \[* 7 Nov 2023*\] 🏆 Completed 200 LeetCode problems ([LeetCode profile](https://leetcode.com/supriya27/))
   <!-- 7 Nov 2023-->
   <img src="./files/leetcode_200problem_milestone.png" width="400" height="190"/>
 
