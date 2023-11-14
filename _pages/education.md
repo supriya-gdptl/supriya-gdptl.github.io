@@ -6,7 +6,7 @@ author_profile: true
 
 ##  *Education*
 
-* **MS-Thesis in Computer Vision and Graphics** (Aug, 2019 - Present)
+* **MS-Thesis in Computer Vision and Graphics** (Sept, 2019 - June, 2023)
   * Institute: **Simon Fraser University, Vancouver, Canada**
   * Advisor: [Manolis Savva](http://msavva.github.io/)
       
