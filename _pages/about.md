@@ -19,7 +19,9 @@ I completed Research-based Master's degree in Computer Science in June 2023 from
 
 <!--I have completed M.Tech with Research Assistantship from [Indian Institute of Technology Hyderabad](http://iith.ac.in/)(IITH), guided by [Prof. Vineeth N Balasubramanian](https://www.iith.ac.in/~vineethnb/index.html). I work in the area of Computer Vision and Graph Analysis. Specifically, generalizing Deep Learning concepts for graphs i.e. non-Euclidean data. My M.Tech thesis topic was **"Undestanding Graph Data Through Deep Leaning Lens"**\[[Link](http://raiith.iith.ac.in/4093/1/Thesis_Mtech_CS_4093.pdf)\]. I also **write blogs** on my understanding of Geometric Deep Learning papers ([cnnforgraphs.blogspot.in](http://cnnforgraphs.blogspot.in/)). -->
 
-I am looking for a full-time Machine Learning Engineer role. If your team has any open position that aligns with my profile, please reach out to me. <!--I'd appreciate the opportunity to chat about potential opportunities.-->
+My expertise is in Data Analysis and Machine Learning domain. I have 8 years of experience in Data Analysis and around 2 years in Software Engineering, making me proficient in both analytical methodologies and software development.
+
+I am looking for a full-time role as a Data Analyst / Software Engineer / Machine Learning Engineer. If your team has any open position that aligns with my profile, please reach out to me. <!--I'd appreciate the opportunity to chat about potential opportunities.-->
 
 <!--Please find my [resume here](https://drive.google.com/file/d/13CRQ-WSPXjU0Yjkzd1YuEWKlNfGaJ10J/view?usp=sharing) \[Last updated: Sept 2023\]. -->
 <!--Please find my [resume here](https://drive.google.com/file/d/1roPeUTe5PggRvKeRwFL9XjmbGZY0efHj/view?usp=sharing) \[Last updated: Sept 2023\].-->
