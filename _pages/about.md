@@ -33,7 +33,9 @@ Please find my [resume here](https://drive.google.com/file/d/1zwzgxQA9hWDad_yGwd
 
 ### Updates:
 
-* \[* 7 Nov 2023*\] 🏆 Completed 200 LeetCode problems ([LeetCode profile](https://leetcode.com/supriya27/))
+* \[*8 July - 16 Aug 2024*\] 🌟 Volunteer for the [Summer Geometry Initiative (SGI) 2024](http://sgi.mit.edu/), organized by Prof. [Justin Solomon](http://people.csail.mit.edu/jsolomon/), MIT.
+
+* \[*7 Nov 2023*\] 🏆 Completed 200 LeetCode problems ([LeetCode profile](https://leetcode.com/supriya27/))
   <!-- 7 Nov 2023-->
   <img src="./files/leetcode_200problem_milestone.png" width="400" height="190"/>
 
