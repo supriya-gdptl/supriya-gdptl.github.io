@@ -34,9 +34,10 @@ Please find my [resume here](https://drive.google.com/file/d/1zwzgxQA9hWDad_yGwd
 ### Updates:
 
 * \[*8 July - 16 Aug 2024*\] 🌟 Volunteer for the [Summer Geometry Initiative (SGI) 2024](http://sgi.mit.edu/), organized by Prof. [Justin Solomon](http://people.csail.mit.edu/jsolomon/), MIT.
-* \[*22 Aug 2024*\] 🏆 Received LeetCode 50 Days Badge 2024. Awarded to **Top 6.9%** of LeetCoders!⭐
+* \[*22 Aug 2024*\] 🏆 Received LeetCode 50 Days Badge 2024. Awarded to **Top 6.9%** of LeetCoders!⭐ 
   <!-- 22 Aug 2024-->
-  <img src="./files/LeetCode_50days_badge.png" width="130" height="250"/>
+  
+  <img src="./files/LeetCode_50days_badge.png" width="150" height="290"/>
 
 * \[*7 Nov 2023*\] 🏆 Completed 200 LeetCode problems ([LeetCode profile](https://leetcode.com/supriya27/))
   <!-- 7 Nov 2023-->
