@@ -33,6 +33,7 @@ Please find my [resume here](https://drive.google.com/file/d/1zwzgxQA9hWDad_yGwd
 
 ### Updates:
 * \[*24 Sept 2024*\] 🌟 Wrote a blog on: [Story Illustrator Using GPT-4o and Flux.1-dev](https://open.substack.com/pub/supriya27/p/story-illustrator-using-gpt-4o-and?r=3sbxbk&utm_campaign=post&utm_medium=web)
+* \[*16 Sept 2024-present*\] 🚨 Working on project: **Building LLM Application using Google Gemini-1.5🔷 and LangChain🦜⛓️**. Check out my [Github repo](https://github.com/supriya-gdptl/Building_LLM_App) for more details.
 * \[*8 July - 16 Aug 2024*\] 🌟 Volunteer for the [Summer Geometry Initiative (SGI) 2024](http://sgi.mit.edu/), organized by Prof. [Justin Solomon](http://people.csail.mit.edu/jsolomon/), MIT.
 * \[*22 Aug 2024*\] 🏆 Received LeetCode 50 Days Badge 2024. Awarded to **Top 6.9%** of LeetCoders!⭐ 
   <!-- 22 Aug 2024-->
