@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I completed a Research-based Master's degree in Computer Science in June 2023 from Simon Fraser University, advised by [Manolis Savva](https://msavva.github.io/). <!--I work at the intersection of deep learning, computer vision and graphics. -->
+<!--I completed a Research-based Master's degree in Computer Science in June 2023 from Simon Fraser University, advised by [Manolis Savva](https://msavva.github.io/).--> <!--I work at the intersection of deep learning, computer vision and graphics. -->
 <!--Currently, I am a Research Intern at Huawei Research Center, Vancouver. -->
 
 <!--My research work explores developing and evaluating deep learning models for vision/graphics tasks such as 3D shape and scene understanding.  -->
@@ -19,7 +19,7 @@ I completed a Research-based Master's degree in Computer Science in June 2023 fr
 
 <!--I have completed M.Tech with Research Assistantship from [Indian Institute of Technology Hyderabad](http://iith.ac.in/)(IITH), guided by [Prof. Vineeth N Balasubramanian](https://www.iith.ac.in/~vineethnb/index.html). I work in the area of Computer Vision and Graph Analysis. Specifically, generalizing Deep Learning concepts for graphs i.e. non-Euclidean data. My M.Tech thesis topic was **"Undestanding Graph Data Through Deep Leaning Lens"**\[[Link](http://raiith.iith.ac.in/4093/1/Thesis_Mtech_CS_4093.pdf)\]. I also **write blogs** on my understanding of Geometric Deep Learning papers ([cnnforgraphs.blogspot.in](http://cnnforgraphs.blogspot.in/)). -->
 
-My expertise is in Machine Learning and Computer Vision (2D/3D) domain. I have 8 years of experience in Machine Learning and around 2 years in Software Engineering, making me proficient in both analytical methodologies and software development.
+I am a Machine Learning Researcher working in the Computer Vision (2D/3D) domain. I have 8 years of experience in Machine Learning and around 2 years in Software Engineering, making me proficient in both analytical methodologies and software development.
 
 I am looking for a full-time role as a Machine Learning Engineer / Software Engineer / Data Analyst. If your team has any open position that aligns with my profile, please reach out to me. <!--I'd appreciate the opportunity to chat about potential opportunities.-->
 
