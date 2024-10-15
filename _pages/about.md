@@ -28,11 +28,17 @@ I am looking for a full-time role as a Machine Learning Engineer / Software Engi
 <!--I am always open to work on challenging problems from different domains. Please feel free to send me an email([spandhre@sfu.ca](spandhre@sfu.ca)) if you would like to collaborate.-->
 <!--Please find my [resume here](https://drive.google.com/file/d/16NRQSndS-SftIu0hmcNP90lVYs0W1kBN/view?usp=sharing) \[Last updated: Sept 2023\].-->
 <!--Please find my [resume here](https://drive.google.com/file/d/1cs36ze6wDmGK4Fl3_5Wl4hDt_K_c9RYU/view?usp=sharing)\[Last updated: Sept 2023\].-->
-Please find my [resume here](https://drive.google.com/file/d/1EEaBVuMV1-K7gdCIt0C3BB-3HYgcXtUL/view?usp=sharing)\[Last updated: Jul 2024\].
+Please find my [resume here](https://drive.google.com/file/d/1YBrM8lDEwBIm_eiDpQnO6IWAQ4dp5wFr/view?usp=sharing)\[Last updated: Oct 2024\].
 
 
 ### Updates:
-* \[*3 Oct 2024*\] 🏆 Received certificate on **Building LLM-Powered Applications** from Weights & Biases. [Certificate link](https://www.credential.net/685f326e-cc8c-409c-aa8b-7f76a2325494)
+* \[*14 Oct 2024*\] 🏆 Obtained a certificate in **Data Engineering** from Coursera. [Certificate link](https://coursera.org/verify/3A28ZCINXBYF)
+     * Learned to build Data Engineering pipeline for:
+          - Batch-data processing using **AWS Glue ETL** and **S3** buckets. 
+          - Real-time streaming data processing using **AWS Kinesis Data Streams and Firehose**
+          - Used **Terraform** for configuring workflow.
+    <img src="./files/data_engineering_certificate.png" width="270" height="160"/>
+* \[*3 Oct 2024*\] 🏆 Received certificate for **Building LLM-Powered Applications** from Weights & Biases. [Certificate link](https://www.credential.net/685f326e-cc8c-409c-aa8b-7f76a2325494)
     * Skills used: Gemini API (LLM), LangChain, Chroma DB (a vector database), W&B Weave (experiment logging & tracking).
  
       <!-- 3 Oct 2024-->
