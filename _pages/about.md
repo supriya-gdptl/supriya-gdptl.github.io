@@ -37,6 +37,8 @@ Please find my [resume here](https://drive.google.com/file/d/1YBrM8lDEwBIm_eiDpQ
           - Batch-data processing using **AWS Glue ETL** and **S3** buckets. 
           - Real-time streaming data processing using **AWS Kinesis Data Streams and Firehose**
           - Used **Terraform** for configuring workflow.
+
+
     <!-- 14 Oct 2024-->
     <img src="./files/data_engineering_certificate.png" width="270" height="160"/>
     
