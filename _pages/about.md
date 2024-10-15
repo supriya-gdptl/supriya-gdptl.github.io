@@ -34,8 +34,8 @@ Please find my [resume here](https://drive.google.com/file/d/1YBrM8lDEwBIm_eiDpQ
 ### Updates:
 * \[*14 Oct 2024*\] 🏆 Obtained a certificate in **Data Engineering** from Coursera. [Certificate link](https://coursera.org/verify/3A28ZCINXBYF)
      * Learned to build Data Engineering pipeline for:
-          - Batch-data processing using **AWS Glue ETL** and **S3** buckets. 
-          - Real-time streaming data processing using **AWS Kinesis Data Streams and Firehose**
+          - Batch-data processing using **Amazon RDS** (Relational Database), **AWS Glue ETL** (Serverless Extract-Transform-Load), and **S3** buckets. 
+          - Real-time streaming data processing using **AWS Kinesis Data Streams** and **Firehose**
           - Used **Terraform** for configuring workflow.
 
 
