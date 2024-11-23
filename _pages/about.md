@@ -36,11 +36,15 @@ Please find my [resume here](https://drive.google.com/file/d/1YBrM8lDEwBIm_eiDpQ
      * Learned to build Data Engineering pipeline for:
           - Batch-data processing using **Amazon RDS** (Relational Database), **AWS Glue ETL** (Serverless Extract-Transform-Load), and **S3** buckets. 
           - Real-time streaming data processing using **AWS Kinesis Data Streams** and **Firehose**
-          - Used **Terraform** for configuring workflow.
+          - Used **Terraform** and **Boto3** for configuring workflow.
 
 
     <!-- 14 Oct 2024-->
     <img src="./files/data_engineering_certificate.png" width="270" height="160"/>
+    
+    <!-- 22 Nov 2024-->
+    <img src="./files/data_engineering_course2_source_systems.png" width="270" height="160"/>
+    
     
 * \[*3 Oct 2024*\] 🏆 Received certificate for **Building LLM-Powered Applications** from Weights & Biases. [Certificate link](https://www.credential.net/685f326e-cc8c-409c-aa8b-7f76a2325494)
     * Skills used: Gemini API (LLM), LangChain, Chroma DB (a vector database), W&B Weave (experiment logging & tracking).
