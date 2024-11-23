@@ -43,7 +43,7 @@ Please find my [resume here](https://drive.google.com/file/d/1YBrM8lDEwBIm_eiDpQ
     <img src="./files/data_engineering_certificate.png" width="270" height="160"/>
     
     <!-- 22 Nov 2024-->
-    <img src="./files/data_engineering_course2_source_systems.png" width="270" height="160"/>
+   <!-- <img src="./files/data_engineering_course2_source_systems.png" width="270" height="160"/> -->
     
     
 * \[*3 Oct 2024*\] 🏆 Received certificate for **Building LLM-Powered Applications** from Weights & Biases. [Certificate link](https://www.credential.net/685f326e-cc8c-409c-aa8b-7f76a2325494)
