@@ -32,6 +32,7 @@ Please find my [resume here](https://drive.google.com/file/d/1YBrM8lDEwBIm_eiDpQ
 
 
 ### Updates:
+* \[*Jan 2025*\] 📝 Reviewer for [CVPR 2025](https://cvpr.thecvf.com/)
 * \[*14 Oct 2024*\] 🏆 Obtained a certificate in **Data Engineering** from Coursera. [Certificate link](https://coursera.org/verify/3A28ZCINXBYF)
      * Learned to build Data Engineering pipeline for:
           - Batch-data processing using **Amazon RDS** (Relational Database), **AWS Glue ETL** (Serverless Extract-Transform-Load), and **S3** buckets. 
