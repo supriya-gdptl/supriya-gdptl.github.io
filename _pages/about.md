@@ -29,7 +29,7 @@ I am looking for a full-time role as a Machine Learning Engineer / Software Engi
 <!--Please find my [resume here](https://drive.google.com/file/d/16NRQSndS-SftIu0hmcNP90lVYs0W1kBN/view?usp=sharing) \[Last updated: Sept 2023\].-->
 <!--Please find my [resume here](https://drive.google.com/file/d/1cs36ze6wDmGK4Fl3_5Wl4hDt_K_c9RYU/view?usp=sharing)\[Last updated: Sept 2023\].-->
 <!--Please find my [resume here](https://drive.google.com/file/d/1YBrM8lDEwBIm_eiDpQnO6IWAQ4dp5wFr/view?usp=sharing)\[Last updated: Oct 2024\].-->
-Please find my [resume here](https://drive.google.com/file/d/1Gc-530K1ZoInT03Qdz1UjJlLwDFy6xs2/view?usp=sharing)\[Last updated: Jan 2024\].
+Please find my [resume here](https://drive.google.com/file/d/1Gc-530K1ZoInT03Qdz1UjJlLwDFy6xs2/view?usp=sharing)\[Last updated: Jan 2025\].
 
 
 ### Updates:
