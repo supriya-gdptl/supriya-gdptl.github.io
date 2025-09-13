@@ -33,7 +33,7 @@ Please find my [resume here](https://drive.google.com/file/d/1Gc-530K1ZoInT03Qdz
 
 
 ### Updates:
-* \[*Sep 2025*\] Completed Course on Vibe Coding using [Replit](https://replit.com/) [Certificate link](https://learn.deeplearning.ai/accomplishments/9ac2ac89-156a-4989-acbf-02178f0c0ccb?usp=sharing)
+* \[*Sep 2025*\] Completed Course on **Vibe Coding using [Replit](https://replit.com/)** ([Certificate link](https://learn.deeplearning.ai/accomplishments/9ac2ac89-156a-4989-acbf-02178f0c0ccb?usp=sharing))
 * \[*Jan 2025*\] 📝 Reviewer for [CVPR 2025](https://cvpr.thecvf.com/)
 * \[*14 Oct 2024*\] 🏆 Obtained a certificate in **Data Engineering** from Coursera. [Certificate link](https://coursera.org/verify/3A28ZCINXBYF)
      * Learned to build Data Engineering pipeline for:
