@@ -21,7 +21,7 @@ redirect_from:
 
 I am a Machine Learning Researcher working in the Computer Vision (2D/3D) domain. I have 8 years of experience in Machine Learning and around 2 years in Software Engineering, making me proficient in both analytical methodologies and software development.
 
-I am looking for a full-time role as a Machine Learning Engineer / Software Engineer / Data Analyst. If your team has any open position that aligns with my profile, please reach out to me. <!--I'd appreciate the opportunity to chat about potential opportunities.-->
+I am looking for a full-time role as a Machine Learning Engineer / Software Engineer / Data Analyst. If your team has any open position that aligns with my profile, please reach out. <!--I'd appreciate the opportunity to chat about potential opportunities.-->
 
 <!--Please find my [resume here](https://drive.google.com/file/d/13CRQ-WSPXjU0Yjkzd1YuEWKlNfGaJ10J/view?usp=sharing) \[Last updated: Sept 2023\]. -->
 <!--Please find my [resume here](https://drive.google.com/file/d/1roPeUTe5PggRvKeRwFL9XjmbGZY0efHj/view?usp=sharing) \[Last updated: Sept 2023\].-->
@@ -29,10 +29,11 @@ I am looking for a full-time role as a Machine Learning Engineer / Software Engi
 <!--Please find my [resume here](https://drive.google.com/file/d/16NRQSndS-SftIu0hmcNP90lVYs0W1kBN/view?usp=sharing) \[Last updated: Sept 2023\].-->
 <!--Please find my [resume here](https://drive.google.com/file/d/1cs36ze6wDmGK4Fl3_5Wl4hDt_K_c9RYU/view?usp=sharing)\[Last updated: Sept 2023\].-->
 <!--Please find my [resume here](https://drive.google.com/file/d/1YBrM8lDEwBIm_eiDpQnO6IWAQ4dp5wFr/view?usp=sharing)\[Last updated: Oct 2024\].-->
-Please find my [resume here](https://drive.google.com/file/d/1Gc-530K1ZoInT03Qdz1UjJlLwDFy6xs2/view?usp=sharing)\[Last updated: Jan 2025\].
+Please find my [resume here](https://drive.google.com/file/d/1Gc-530K1ZoInT03Qdz1UjJlLwDFy6xs2/view?usp=sharing)\[Last updated: Jan 2026\].
 
 
 ### Updates:
+* \[*Jan 2026*\] 📝 Reviewer for CVPR 2026, ECCV 2026, BMVC 2026
 * \[*Sep 2025*\] Completed Course on **Vibe Coding using [Replit](https://replit.com/)** ([Certificate link](https://learn.deeplearning.ai/accomplishments/9ac2ac89-156a-4989-acbf-02178f0c0ccb?usp=sharing))
 * \[*Jan 2025*\] 📝 Reviewer for [CVPR 2025](https://cvpr.thecvf.com/)
 * \[*14 Oct 2024*\] 🏆 Obtained a certificate in **Data Engineering** from Coursera. [Certificate link](https://coursera.org/verify/3A28ZCINXBYF)
