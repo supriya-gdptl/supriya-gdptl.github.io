@@ -34,7 +34,6 @@ Please find my [resume here](https://drive.google.com/file/d/1Gc-530K1ZoInT03Qdz
 
 ### Updates:
 * \[*May 2026*\] Completed project: [AI-Powered Document Content Matcher](https://github.com/supriya-gdptl/upload_validator)
-  
   * **AI-Powered Content Validation:** Automatically verifies that user-uploaded files (images, PDFs, videos) match their text descriptions.
   * **100% Local & Privacy-Focused:** Runs entirely on your machine using local models (CLIP ViT-B/32 and all-MiniLM-L6-v2) —no external APIs, no cloud dependencies, and no data sent elsewhere.
   * **Production-Ready Stack:** Full-stack application with FastAPI backend
