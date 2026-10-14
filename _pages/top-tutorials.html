@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Code Newsletter — Top Tutorials</title>
+<style>
+:root {
+  --bg: #f6f7fb;
+  --card: #ffffff;
+  --text: #202433;
+  --muted: #687086;
+  --accent: #6558d3;
+  --border: #e4e7ef;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: Inter, system-ui, -apple-system, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+header {
+  padding: 48px 20px 34px;
+  text-align: center;
+  background: #17182b;
+  color: white;
+}
+header h1 { margin: 0 0 10px; font-size: clamp(28px, 4vw, 42px); }
+header p { margin: 0; color: #c7c9db; }
+main { max-width: 1000px; margin: auto; padding: 28px 18px 60px; }
+.toolbar {
+  display: flex; gap: 12px; align-items: center;
+  justify-content: space-between; flex-wrap: wrap;
+  margin-bottom: 22px;
+}
+input {
+  flex: 1; min-width: 230px; padding: 13px 15px;
+  border: 1px solid var(--border); border-radius: 10px;
+  font-size: 15px; background: white;
+}
+#count { color: var(--muted); font-size: 14px; }
+.grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 18px; }
+article {
+  background: var(--card); border: 1px solid var(--border);
+  border-radius: 14px; padding: 22px; display: flex;
+  flex-direction: column; min-height: 230px;
+  box-shadow: 0 3px 12px #18203a08;
+}
+.tag {
+  color: var(--accent); text-transform: uppercase;
+  letter-spacing: .08em; font-size: 11px; font-weight: 750;
+}
+article h2 { font-size: 20px; line-height: 1.4; margin: 10px 0; }
+.description { color: #50576a; line-height: 1.65; font-size: 14px; }
+.meta { color: var(--muted); font-size: 12px; margin-top: auto; padding-top: 18px; }
+a.link {
+  display: inline-block; color: var(--accent); text-decoration: none;
+  font-weight: 650; margin-top: 13px; font-size: 14px;
+}
+a.link:hover { text-decoration: underline; }
+.empty { padding: 35px; text-align: center; color: var(--muted); }
+@media(max-width: 650px) {
+  .grid { grid-template-columns: 1fr; }
+  header { padding: 35px 18px; }
+}
+</style>
+</head>
+<body>
+<header>
+  <h1>Top Tutorials</h1>
+  <p>A curated collection from The Code Newsletter archive</p>
+</header>
+<main>
+  <div class="toolbar">
+    <input id="search" type="search"
+      placeholder="Search tutorials, topics, or newsletters..."
+      aria-label="Search tutorials">
+    <span id="count"></span>
+  </div>
+  <section class="grid" id="tutorials"></section>
+  <div class="empty" id="empty" hidden>No matching tutorials found.</div>
+</main>
+<script>
+const tutorials = [{"newsletter_title": "Anthropic's new model nails bug fixes", "newsletter_date": "Sep 29, 2026", "newsletter_url": "https://codenewsletter.ai/p/anthropic-s-new-model-nails-bug-fixes", "tutorial_title": "How to build agents and full-stack apps with Meta Muse", "tutorial_description": "This tutorial walks through Muse Spark, the Muse API, Agent SDK, and Muse Code CLI, then puts them together in real workflows. You’ll learn structured outputs, search grounding, MCP servers, custom skills, persistent memory, autonomous goals, and how to ship a full-stack app with React, Go, and Docker.", "tutorial_url": "https://www.youtube.com/watch?v=b-P5ZQ1NxxE&t=5579s&utm_campaign=anthropic-s-new-model-nails-bug-fixes&utm_medium=referral&utm_source=codenewsletter.ai"}, {"newsletter_title": "New experiment pushed frontier models into executing dangerous commands", "newsletter_date": "Sep 21, 2026", "newsletter_url": "https://codenewsletter.ai/p/new-experiment-pushed-frontier-models-into-executing-dangerous-commands", "tutorial_title": "How to pair Jev with Claude Code for a cheaper agent loop", "tutorial_description": "This tutorial shows how to use Jev for the fast, repetitive decisions and hand the harder reasoning back to Claude Code. You’ll see it used for skill selection, feedback loops, adversarial testing, code smells, and other checks where you want speed and low cost without burning expensive LLM tokens on every step.", "tutorial_url": "https://www.youtube.com/watch?v=ScvXFi4MUSc&utm_campaign=new-experiment-pushed-frontier-models-into-executing-dangerous-commands&utm_medium=referral&utm_source=codenewsletter.ai"}, {"newsletter_title": "OpenAI just gave devs two big shortcuts", "newsletter_date": "Sep 11, 2026", "newsletter_url": "https://codenewsletter.ai/p/openai-just-gave-devs-two-big-shortcuts", "tutorial_title": "Moving from Mac to Linux for AI development", "tutorial_description": "If you’re running multiple agents at once, Linux can give you a faster, more reliable setup without tying everything to your laptop. This tutorial shows how to offload long-running jobs to a remote Linux machine, keep them running even after you close your Mac, and connect everything with tools like Tailscale and tmux. It also covers the less-fun bits, including syncing context, files, and secrets across machines.", "tutorial_url": "https://www.youtube.com/watch?v=rVwUbFFRpTY&utm_campaign=openai-just-gave-devs-two-big-shortcuts&utm_medium=referral&utm_source=codenewsletter.ai"}, {"newsletter_title": "Claude mods are here", "newsletter_date": "Oct 2, 2026", "newsletter_url": "https://codenewsletter.ai/p/claude-mods-are-here", "tutorial_title": "Tokenmaxxing your Claude subscription", "tutorial_description": "A CTO shows how to hand Claude Code bigger chunks of real work without chewing through your limits too fast. You’ll learn how to structure longer agent runs, parallelize tasks, and treat Claude more like a collaborator than a glorified autocomplete.", "tutorial_url": "https://www.youtube.com/watch?v=D8PikZ1KhUo&utm_campaign=claude-mods-are-here&utm_medium=referral&utm_source=codenewsletter.ai"}, {"newsletter_title": "Apple gives devs a folding canvas to build for", "newsletter_date": "Sep 10, 2026", "newsletter_url": "https://codenewsletter.ai/p/apple-gives-devs-a-folding-canvas-to-build-for", "tutorial_title": "How a senior dev ships 50+ PRs a week while on vacation", "tutorial_description": "You’ll learn how to run multiple coding agents in parallel, automate code reviews, and use dedicated dev environments to keep work moving without staying glued to your machine. The tutorial also covers how to build better safety nets around merges and turn recurring workflow friction into tooling your agents can handle.", "tutorial_url": "https://www.youtube.com/watch?v=q1D90-uGvBg&utm_campaign=apple-gives-devs-a-folding-canvas-to-build-for&utm_medium=referral&utm_source=codenewsletter.ai"}, {"newsletter_title": "SpaceXAI's Grok Bot borrows rival models for tough tasks", "newsletter_date": "Oct 8, 2026", "newsletter_url": "https://codenewsletter.ai/p/spacexai-s-grok-bot-borrows-rival-models-for-tough-tasks", "tutorial_title": "How to build your own AI software factory with Claude Code", "tutorial_description": "This tutorial walks through building an agent workflow that can take a feature from task to implementation and approval. You’ll also see how to run multiple features in parallel and extend the setup into a bigger software factory.", "tutorial_url": "https://www.youtube.com/watch?v=ctoaIC4LHmI&utm_campaign=spacexai-s-grok-bot-borrows-rival-models-for-tough-tasks&utm_medium=referral&utm_source=codenewsletter.ai"}, {"newsletter_title": "ChatGPT co-inventor’s frontier lab drops new model", "newsletter_date": "Sep 16, 2026", "newsletter_url": "https://codenewsletter.ai/p/chatgpt-co-inventor-s-frontier-lab-drops-new-model", "tutorial_title": "A senior dev’s complete agentic setup", "tutorial_description": "This tutorial shows a practical setup for weaving AI agents into both coding and admin work. You’ll learn how to use Codex as the main interface, how tools are connected behind it, and how longer-running jobs get handed off without constant babysitting.", "tutorial_url": "https://www.youtube.com/watch?v=O8cl4R5VEOI&utm_campaign=chatgpt-co-inventor-s-frontier-lab-drops-new-model&utm_medium=referral&utm_source=codenewsletter.ai"}, {"newsletter_title": "Google's new model hunts and patches security bugs", "newsletter_date": "Oct 1, 2026", "newsletter_url": "https://codenewsletter.ai/p/google-s-new-model-hunts-and-patches-security-bugs", "tutorial_title": "8 real ways to use Jev in your apps", "tutorial_description": "This tutorial skips the theory and shows where a fast decision model actually fits. You’ll learn how to use Jev for voice commands, data deduplication, routing users through an app, multi-step classification, and other jobs where you need a quick structured decision instead of a full LLM response.", "tutorial_url": "https://www.youtube.com/watch?v=dAIIaepNhQM&utm_campaign=google-s-new-model-hunts-and-patches-security-bugs&utm_medium=referral&utm_source=codenewsletter.ai"}, {"newsletter_title": "Google drops a double release for builders", "newsletter_date": "Oct 7, 2026", "newsletter_url": "https://codenewsletter.ai/p/google-drops-a-double-release-for-builders", "tutorial_title": "How to build a Claude DevOps agent", "tutorial_description": "This tutorial shows how to build an AI SRE with the Claude Agent SDK that acts as your first responder when prod breaks. It digs through logs, metrics, and recent deployments, figures out what probably went wrong, and recommends what to do next while leaving the final call to you.", "tutorial_url": "https://www.youtube.com/watch?v=l6GpUvPOVpM&utm_campaign=google-drops-a-double-release-for-builders&utm_medium=referral&utm_source=codenewsletter.ai"}, {"newsletter_title": "OpenAI's treat for all developers", "newsletter_date": "Sep 30, 2026", "newsletter_url": "https://codenewsletter.ai/p/openai-s-treat-for-all-developers", "tutorial_title": "The ideal agentic coding workflow (by a Google engineer)", "tutorial_description": "This tutorial walks through the full setup, from giving agents the right memory and context to planning before they code, running multiple agents in parallel with Git worktrees, and reviewing AI-generated code based on risk. You’ll learn how to turn one-off prompts into repeatable loops that can research, build, test, fix, and review with less babysitting.", "tutorial_url": "https://www.youtube.com/watch?v=tSF6eZW8ZMU&t=1s&utm_campaign=openai-s-treat-for-all-developers&utm_medium=referral&utm_source=codenewsletter.ai"}, {"newsletter_title": "OpenAI's new model has breakthrough 3D modeling powers", "newsletter_date": "Sep 4, 2026", "newsletter_url": "https://codenewsletter.ai/p/openai-s-new-model-has-breakthrough-3d-modeling-powers", "tutorial_title": "How to avoid the 19 Claude Code mistakes pros still make", "tutorial_description": "In this tutorial, you'll learn how to sharpen your prompting, keep token costs down, and set up autonomous workflows. By skipping these common traps, you'll create an AI dev environment that's way more efficient, reliable, and easy on your wallet.", "tutorial_url": "https://www.youtube.com/watch?v=icM0ewXGvAw&utm_campaign=openai-s-new-model-has-breakthrough-3d-modeling-powers&utm_medium=referral&utm_source=codenewsletter.ai"}, {"newsletter_title": "Meta unveils its first frontier model to rival Claude and ChatGPT", "newsletter_date": "Oct 13, 2026", "newsletter_url": "https://codenewsletter.ai/p/meta-unveils-its-first-frontier-model-to-rival-claude-and-chatgpt", "tutorial_title": "A former Oracle engineer’s workflow for building production agents", "tutorial_description": "This tutorial by a former Oracle engineering leader teaches how to build a full-stack apps using modern web technologies. You’ll learn to set up the backend database, connect it with a responsive frontend, and deploy the complete project efficiently.", "tutorial_url": "https://www.youtube.com/watch?v=9tinC8jG7FM&utm_campaign=meta-unveils-its-first-frontier-model-to-rival-claude-and-chatgpt&utm_medium=referral&utm_source=codenewsletter.ai"}, {"newsletter_title": "OpenAI and Anthropic breach incidents run into tens of thousands", "newsletter_date": "Sep 28, 2026", "newsletter_url": "https://codenewsletter.ai/p/openai-and-anthropic-breach-incidents-run-into-tens-of-thousands", "tutorial_title": "How a senior dev ships 30+ PRs a day with AI agents", "tutorial_description": "This tutorial breaks down a setup that splits work between Codex for local development and Cursor cloud agents for parallel tasks. You’ll learn detailed specs, verification skills, and role-based agents that help ship features, test changes, fix bugs, and handle support without constantly babysitting every task.", "tutorial_url": "https://www.youtube.com/watch?v=54D1hFfaju8&utm_campaign=openai-and-anthropic-breach-incidents-run-into-tens-of-thousands&utm_medium=referral&utm_source=codenewsletter.ai"}, {"newsletter_title": "Claude subscribers get monthly credits to build agents", "newsletter_date": "Oct 9, 2026", "newsletter_url": "https://codenewsletter.ai/p/claude-subscribers-get-monthly-credits-to-build-agents", "tutorial_title": "How to build a full agentic development stack", "tutorial_description": "A dev walks through the harnesses, models, dev tools, and workflows he actually uses to build software with agents. You’ll learn how to pick between Claude Code, Codex, Cursor, and other tools, then tie them together into a software-factory-style workflow instead of relying on one coding agent for everything.", "tutorial_url": "https://www.youtube.com/watch?v=T1dQhQAm8Tc&utm_campaign=claude-subscribers-get-monthly-credits-to-build-agents&utm_medium=referral&utm_source=codenewsletter.ai"}, {"newsletter_title": "OpenAI model wrote itself ‘I'm free and equal’ instructions", "newsletter_date": "Sep 17, 2026", "newsletter_url": "https://codenewsletter.ai/p/openai-model-wrote-itself-i-m-free-and-equal-instructions", "tutorial_title": "How a senior dev codes without typing", "tutorial_description": "This tutorial shows how a hand injury pushed one developer into a voice-first coding workflow. You’ll see how he uses dictation to give agents instructions, Codex to handle the actual implementation, and a setup that lets him steer projects, review progress, and kick off tasks without living in the keyboard.", "tutorial_url": "https://www.youtube.com/watch?v=NvVbCqDgfCs&utm_campaign=openai-model-wrote-itself-i-m-free-and-equal-instructions&utm_medium=referral&utm_source=codenewsletter.ai"}, {"newsletter_title": "Devs are hooked on this teen founder's new product", "newsletter_date": "Oct 6, 2026", "newsletter_url": "https://codenewsletter.ai/p/devs-are-hooked-on-this-teen-founder-s-new-product", "tutorial_title": "Vercel CEO’s agentic engineering setup", "tutorial_description": "Guillermo Rauch breaks down how he’s building around cloud agents, faster feedback loops, and software factories where humans spend less time typing code and more time steering the work. The big shift is from writing everything yourself to orchestrating agents with better taste, judgment, and clear goals.", "tutorial_url": "https://www.youtube.com/watch?v=WeiB_gLOdQE&utm_campaign=devs-are-hooked-on-this-teen-founder-s-new-product&utm_medium=referral&utm_source=codenewsletter.ai"}, {"newsletter_title": "No more juggling sessions on Claude Code", "newsletter_date": "Sep 18, 2026", "newsletter_url": "https://codenewsletter.ai/p/no-more-juggling-sessions-on-claude-code", "tutorial_title": "How to build with Jev", "tutorial_description": "Unlike standard LLMs that generate text, Jev scores possible outcomes in milliseconds. This tutorial shows you how to set up the API and build three projects: a voice-controlled browser, an AI memory system, and a YouTube idea scorer. It also covers when you still need a standard LLM to back it up.", "tutorial_url": "https://www.youtube.com/watch?v=Nq_lu5QT-fI&t=3s&utm_campaign=no-more-juggling-sessions-on-claude-code&utm_medium=referral&utm_source=codenewsletter.ai"}, {"newsletter_title": "New Grok model upgrades coding without raising the price", "newsletter_date": "Sep 22, 2026", "newsletter_url": "https://codenewsletter.ai/p/new-grok-model-upgrades-coding-without-raising-the-price", "tutorial_title": "How to run agents 24/7 on your own server", "tutorial_description": "This tutorial shows how to put DeepSeek Harness on a cheap VPS so your agents keep working even when your laptop is closed. You’ll learn how to connect different models through OpenRouter, switch between them mid-conversation, add plugins and custom commands, and keep long-running agent workflows online without tying them to your local machine.", "tutorial_url": "https://www.youtube.com/watch?v=iXqwX9DR0IQ&utm_campaign=new-grok-model-upgrades-coding-without-raising-the-price&utm_medium=referral&utm_source=codenewsletter.ai"}];
+
+function render() {
+  const query = document.getElementById("search").value.toLowerCase();
+  const filtered = tutorials.filter(item =>
+    [item.tutorial_title, item.tutorial_description,
+     item.newsletter_title, item.newsletter_date]
+      .some(value => (value || "").toLowerCase().includes(query))
+  );
+
+  document.getElementById("count").textContent =
+    `${filtered.length} tutorial${filtered.length === 1 ? "" : "s"}`;
+
+  document.getElementById("empty").hidden = filtered.length > 0;
+
+  document.getElementById("tutorials").innerHTML = filtered.map(item => `
+    <article>
+      <span class="tag">Top Tutorial</span>
+      <h2>${escapeHTML(item.tutorial_title)}</h2>
+      <p class="description">${escapeHTML(item.tutorial_description)}</p>
+      <div class="meta">
+        ${escapeHTML(item.newsletter_date || "Date not found")}
+        <br>${escapeHTML(item.newsletter_title)}
+      </div>
+      <a class="link" href="${safeURL(item.tutorial_url)}"
+         target="_blank" rel="noopener noreferrer">
+        Open tutorial ↗
+      </a>
+      <a class="link" href="${safeURL(item.newsletter_url)}"
+         target="_blank" rel="noopener noreferrer">
+        Original newsletter ↗
+      </a>
+    </article>
+  `).join("");
+}
+
+function escapeHTML(value) {
+  return String(value || "").replace(/[&<>"']/g, c => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;",
+    '"': "&quot;", "'": "&#39;"
+  }[c]));
+}
+
+function safeURL(value) {
+  try {
+    const url = new URL(value);
+    return ["https:", "http:"].includes(url.protocol)
+      ? escapeHTML(url.href) : "#";
+  } catch { return "#"; }
+}
+
+document.getElementById("search").addEventListener("input", render);
+render();
+</script>
+</body>
+</html>
